@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  15 APR 2026 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  15 APR 2026 01:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -452,82 +452,82 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 )
 Package hyperref Info: Link coloring OFF on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--75
+Underfull \hbox (badness 10000) in paragraph at lines 63--74
 
  []
 
 [1
 
 {C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-Overfull \hbox (4.99545pt too wide) in paragraph at lines 91--108
+Overfull \hbox (4.99545pt too wide) in paragraph at lines 92--109
 \T1/lmr/bx/n/12 (-20) Signature: \T1/lmr/m/n/12 (-20) ___________________ \T1/lmr/bx/n/12 (-20) Name: \T1/lmr/m/n/12 (-20) Sap-tarshi Sadhu \T1/lmr/bx/n/12 (-20) Roll/Registration
  []
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 144.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 145.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [3{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [4] [5] (output.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 8.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 8.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 8.
+(Font)              <9> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 8.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8.
+(Font)              <7> on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
@@ -537,7 +537,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout3 = `output.toc'.
 
  [7] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 264--280
+Underfull \hbox (badness 10000) in paragraph at lines 265--281
 
  []
 
@@ -548,17 +548,17 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13487 strings out of 467867
- 214155 string characters out of 5413459
- 667564 words of memory out of 5000000
- 41920 multiletter control sequences out of 15000+600000
- 676267 words of font info for 159 fonts, out of 8000000 for 9000
+ 13480 strings out of 467867
+ 214018 string characters out of 5413459
+ 667530 words of memory out of 5000000
+ 41916 multiletter control sequences out of 15000+600000
+ 673042 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,6n,93p,1029b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on output.pdf (35 pages, 224466 bytes).
+Output written on output.pdf (35 pages, 225088 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 24977 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 466 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
+ 22937 words of extra memory for PDF output out of 24883 (max. 10000000)
 
