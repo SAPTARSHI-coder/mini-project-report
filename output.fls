@@ -151,10 +151,18 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype
 OUTPUT output.pdf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmbx12.tfm
 INPUT .\output.toc
 INPUT .\output.toc
 INPUT output.toc
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
@@ -201,15 +209,7 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 OUTPUT output.toc
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmbx12.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT output.aux
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb

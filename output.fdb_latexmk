@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1776152077.08572 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776152078.13076 0
+["pdflatex"] 1776162840.73024 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776162841.95805 0
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776152075.62474 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775500618.50174 13338724 d5558362a69863122e5268b1cb7cd4d7 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -98,9 +98,9 @@
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "d:/DESKTOP/Mini Projrct/output.tex" 1776148305.33736 92031 ffff5cbc05f920151eb4259d110e5172 ""
-  "output.aux" 1776152077.94409 43880 66505e0a3b5252870c6e6926b11ce67d "pdflatex"
-  "output.toc" 1776152077.95771 6032 785f9205b386066a0f95b978f2b16d6e "pdflatex"
+  "d:/DESKTOP/Mini Projrct/output.tex" 1776162697.80253 89562 72882658e3957c825408abaec12b0792 ""
+  "output.aux" 1776162841.67083 40920 254fb670e827ef322bcce765e3090953 "pdflatex"
+  "output.toc" 1776162841.68744 4668 1874cdca286a2e5f549d38a1c7cedcc8 "pdflatex"
   (generated)
   "output.aux"
   "output.log"
