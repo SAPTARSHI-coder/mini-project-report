@@ -126,66 +126,26 @@ Samrat Patra(UG/SOET/30/24/218) \\
 \end{center}
 \vspace{1cm}
 \newpage
-\section{Abstract}\label{abstract}
+\section*{\huge \bfseries Abstract}
+\addcontentsline{toc}{section}{Abstract}
+\vspace{1cm}
 
-Medication errors represent a critical, devastating, and pervasive
-threat to patient safety worldwide. Epidemiological models and hospital
-administration statistics routinely rank medication errors as the third
-leading cause of preventable human death in critical care hospital
-settings. A vast and significant proportion of these incidents are
-Look-Alike Sound-Alike (LASA) errors. These occur when a clinician,
-pharmacist, or nurse inadvertently prescribes, transcribes, dispenses,
-or administers an entirely wrong medication simply due to deceptive
-orthographic (spelling) overlaps or misleading phonetic (pronunciation)
-similarities.
+\begin{spacing}{1.5}
 
-Traditional screening software protocols currently installed in legacy
-hospital Electronic Health Record (EHR) systems primarily rely on rigid,
-static lists of historically known confusable generic names. They
-operate using exact string matches or crude dictionary lookups,
-fundamentally failing to dynamically flag emerging risks or accommodate
-entirely novel, synthetically designed drug nomenclature entering the
-market daily.
+Medication errors represent a critical, devastating, and pervasive threat to patient safety worldwide. Epidemiological models and hospital administration statistics routinely rank medication errors as the third leading cause of preventable human death in critical care hospital settings. A vast and significant proportion of these incidents are Look-Alike Sound-Alike (LASA) errors. These occur when a clinician, pharmacist, or nurse inadvertently prescribes, transcribes, dispenses, or administers an entirely wrong medication due to deceptive orthographic (spelling) overlaps or misleading phonetic (pronunciation) similarities.
 
-To overcome these architectural deficits, this engineering project
-introduces a novel, highly interoperable clinical decision support
-system designed specifically for the real-time artificial
-intelligence-based detection of confusable drug names. The proposed
-computational architecture employs a robust ensemble machine learning
-approach. It mathematically aggregates nine sophisticated,
-mathematically disjoint feature vectors that encapsulate structural
-orthographic distance---incorporating advanced Levenshtein limits,
-Jaro-Winkler prefixes, and sequential N-gram set theory---simultaneously
-fused with complex phonetic encoding equivalence systems such as native
-American Soundex and Double Metaphone algorithms.
+Traditional screening software protocols currently installed in legacy hospital Electronic Health Record (EHR) systems primarily rely on rigid, static lists of historically known confusable generic names. They operate using exact string matches or crude dictionary lookups, fundamentally failing to dynamically flag emerging risks or accommodate entirely novel, synthetically designed drug nomenclature entering the market daily.
 
-Furthermore, bridging the threshold into unstructured clinical text, the
-pipeline successfully integrates OpenAI\textquotesingle s heavily
-supervised Whisper transcription model for voice-based clinical
-prescriptions. This is immediately parsed by a custom Natural Language
-Processing (NLP) Named Entity Recognition (NER) extraction module to
-accurately retrieve singular medication parameters (names, dosages, and
-administration routes) from messy, unstructured text or voice.
+To overcome these architectural deficits, this engineering project introduces a novel, highly interoperable clinical decision support system designed specifically for real-time, artificial intelligence-based detection of confusable drug names. The proposed computational architecture employs a robust ensemble machine learning approach, mathematically aggregating nine sophisticated, mutually disjoint feature vectors that encapsulate structural orthographic distance---incorporating advanced Levenshtein limits, Jaro-Winkler prefixes, and sequential N-gram set theory---simultaneously fused with complex phonetic encoding equivalence systems such as native American Soundex and Double Metaphone algorithms.
 
-To explicitly bridge the gap between pure computational string
-similarity and actual biological clinical risk, the system architects an
-exclusive Patient Context Validation engine. This engine rigorously
-cross-references the targeted pharmacological drug class against the
-patient\textquotesingle s existing, verified diagnosis parameters to
-aggressively suppress clinically plausible, mathematically sound false
-positives, essentially combating ubiquitous alert fatigue. Evaluated
-extensively on a synthesized dataset derived entirely from official
-Institute for Safe Medication Practices (ISMP) alerts, the ensemble
-modeling suite---utilizing hyper-parameter tuned Random Forest and
-Gradient Boosting Classifiers---achieves a commanding Area Under the
-Curve (AUC) of approximately 0.96. The overarching result is a highly
-interpretable, stratified risk analysis engine that identifies imminent
-and dangerous LASA hazards at the exact point of care, providing
-critical, actionable transparency through dynamically generated
-rationale strings prior to clinical administration.
+Furthermore, bridging the threshold into unstructured clinical text, the pipeline successfully integrates OpenAI's heavily supervised Whisper transcription model for voice-based clinical prescriptions. This is immediately parsed by a custom Natural Language Processing (NLP) Named Entity Recognition (NER) extraction module to accurately retrieve singular medication parameters (names, dosages, and administration routes) from messy, unstructured text or voice inputs.
 
--\/-\/-
+To explicitly bridge the gap between pure computational string similarity and actual biological clinical risk, the system architects an exclusive Patient Context Validation engine. This engine rigorously cross-references the targeted pharmacological drug class against the patient's existing, verified diagnostic parameters to aggressively suppress clinically plausible yet mathematically sound false positives, thereby mitigating pervasive alert fatigue. Evaluated extensively on a synthesized dataset derived entirely from official Institute for Safe Medication Practices (ISMP) alerts, the ensemble modeling suite---utilizing hyperparameter-tuned Random Forest and Gradient Boosting classifiers---achieves a commanding Area Under the Curve (AUC) of approximately 0.96. The overarching result is a highly interpretable, stratified risk analysis engine that identifies imminent and dangerous LASA hazards at the exact point of care, providing critical, actionable transparency through dynamically generated rationale strings prior to clinical administration.
 
+\vspace{0.5cm}
+\textbf{Keywords:} LASA errors, medication safety, machine learning, phonetic similarity, clinical decision support systems
+
+\end{spacing}
 \newpage
 \section{Acknowledgement}\label{acknowledgement}
 
