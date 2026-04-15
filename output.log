@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  15 APR 2026 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  15 APR 2026 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -479,7 +479,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--104
  []
 
 [2] [3] [4]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 160.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 176.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [5{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] (output.toc
@@ -527,7 +527,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout3 = `output.toc'.
 
  [7] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 243--259
+Underfull \hbox (badness 10000) in paragraph at lines 250--266
 
  []
 
@@ -538,17 +538,17 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13485 strings out of 467867
- 214126 string characters out of 5413459
- 667496 words of memory out of 5000000
- 41919 multiletter control sequences out of 15000+600000
- 672968 words of font info for 155 fonts, out of 8000000 for 9000
+ 13477 strings out of 467867
+ 214006 string characters out of 5413459
+ 667458 words of memory out of 5000000
+ 41916 multiletter control sequences out of 15000+600000
+ 672464 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,6n,93p,1117b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on output.pdf (39 pages, 228746 bytes).
+Output written on output.pdf (39 pages, 227911 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
+ 483 PDF objects out of 1000 (max. 8388607)
  104 named destinations out of 1000 (max. 500000)
- 22937 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 20889 words of extra memory for PDF output out of 24883 (max. 10000000)
 

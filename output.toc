@@ -1,7 +1,7 @@
 \contentsline {section}{Certificate}{i}{section*.1}%
 \contentsline {section}{Declaration}{ii}{section*.2}%
 \contentsline {section}{Abstract}{iii}{section*.3}%
-\contentsline {section}{Acknowledgement}{v}{section*.4}%
+\contentsline {section}{Acknowledgements}{v}{section*.4}%
 \contentsline {section}{List of Tables}{viii}{section*.6}%
 \contentsline {section}{List of Figures}{ix}{section*.7}%
 \contentsline {section}{Abbreviations}{x}{section*.8}%
