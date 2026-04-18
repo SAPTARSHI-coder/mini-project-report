@@ -295,6 +295,8 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\te
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 OUTPUT output.toc
+OUTPUT output.lof
+OUTPUT output.lot
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Italic-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  18 APR 2026 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  18 APR 2026 22:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -609,53 +609,53 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \JustifyingParindent=\skip128
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 36.
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 56.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 56.
+(Font)              scaled to size 12.0pt on input line 71.
  (output.aux)
 \openout1 = `output.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 56.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 56.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 71.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 56.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 71.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 56.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 71.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 56.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 71.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count339
@@ -677,8 +677,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count345
 \c@mv@boldtabular=\count346
-LaTeX Info: Command `\dddot' is already robust on input line 56.
-LaTeX Info: Command `\ddddot' is already robust on input line 56.
+LaTeX Info: Command `\dddot' is already robust on input line 71.
+LaTeX Info: Command `\ddddot' is already robust on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -714,19 +714,19 @@ LaTeX Info: Command `\ddddot' is already robust on input line 56.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 56.
+Package hyperref Info: Link coloring ON on input line 71.
 \@outlinefile=\write3
 \openout3 = `output.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 56.
-Package microtype Info: Applying patch `item' on input line 56.
-Package microtype Info: Applying patch `toc' on input line 56.
-Package microtype Info: Applying patch `eqnum' on input line 56.
-Package microtype Info: Applying patch `footnote' on input line 56.
-Package microtype Info: Applying patch `verbatim' on input line 56.
-LaTeX Info: Redefining \microtypesetup on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 71.
+Package microtype Info: Applying patch `item' on input line 71.
+Package microtype Info: Applying patch `toc' on input line 71.
+Package microtype Info: Applying patch `eqnum' on input line 71.
+Package microtype Info: Applying patch `footnote' on input line 71.
+Package microtype Info: Applying patch `verbatim' on input line 71.
+LaTeX Info: Redefining \microtypesetup on input line 71.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -741,186 +741,161 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 70.
+(Font)              scaled to size 17.28pt on input line 85.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 70.
+(Font)              scaled to size 17.28pt on input line 85.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 79.
+(Font)              scaled to size 20.74pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 79.
+(Font)              scaled to size 20.74pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 85.
+(Font)              scaled to size 14.4pt on input line 100.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 14.4pt on input line 85.
+(Font)              scaled to size 14.4pt on input line 100.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 87.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 94.
+(Font)              scaled to size 14.4pt on input line 102.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 109.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `minntx' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 109.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 94.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 109.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 109.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.8pt on input line 94.
+(Font)              scaled to size 8.8pt on input line 109.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 94.
+(Font)              scaled to size 6.6pt on input line 109.
  [1
 
 {C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 130.
+(Font)              scaled to size 12.0pt on input line 145.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \clearpage
+l.164 \clearpage
                  [1
 
 ]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 170.
+(Font)              scaled to size 24.88pt on input line 185.
  [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 188.
+(Font)              scaled to size 10.95pt on input line 203.
  [3] [4]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 217.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 232.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 217.
+(Font)              scaled to size 12.0pt on input line 232.
  [5{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.88pt on input line 237.
+(Font)              scaled to size 24.88pt on input line 249.
 
 No file output.toc.
 \tf@toc=\write4
 \openout4 = `output.toc'.
 
-[6]
-d:/DESKTOP/Mini Projrct/output.tex:245: Undefined control sequence.
-<recently read> \tightlist 
-                           
-l.245 \tightlist
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[6
 
-[7]
-d:/DESKTOP/Mini Projrct/output.tex:270: Undefined control sequence.
-<recently read> \tightlist 
-                           
-l.270 \tightlist
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+]
+No file output.lof.
+\tf@lof=\write5
+\openout5 = `output.lof'.
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 294--310
+[7
 
- []
+]
+No file output.lot.
+\tf@lot=\write6
+\openout6 = `output.lot'.
 
-[9]
+[8
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 321.
+] [9
+
+]
+Chapter 1.
+[1
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 321.
+] [2] [3] [4]
+Chapter 2.
+[5
 
-[1] [2] [3]
+] [6] [7] [8]
+Chapter 3.
+[9
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 493.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 493.
-
-[4] [5] [6]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 689.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 689.
-
-[7]
+]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 751.
- [8] [9] [10]
-d:/DESKTOP/Mini Projrct/output.tex:894: Undefined control sequence.
+(Font)              scaled to size 12.0pt on input line 702.
+ [10] [11]
+d:/DESKTOP/Mini Projrct/output.tex:841: Undefined control sequence.
 <recently read> \tightlist 
                            
-l.894 \tightlist
+l.841 \tightlist
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -928,20 +903,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[11] [12] [13] [14] [15] [16] [17]
+[12] [13] [14] [15] [16] [17] [18] [19] [20]
+Chapter 4.
+[21
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1298.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1298.
-
-[18] [19]
-d:/DESKTOP/Mini Projrct/output.tex:1361: Undefined control sequence.
+]
+d:/DESKTOP/Mini Projrct/output.tex:1299: Undefined control sequence.
 <recently read> \tightlist 
                            
-l.1361 \tightlist
+l.1299 \tightlist
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -949,43 +919,22 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/DESKTOP/Mini Projrct/output.tex:1393: Undefined control sequence.
+d:/DESKTOP/Mini Projrct/output.tex:1330: Undefined control sequence.
 <recently read> \tightlist 
                            
-l.1393 \tightlist
+l.1330 \tightlist
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
-
-[20]
-d:/DESKTOP/Mini Projrct/output.tex:1448: Undefined control sequence.
-<recently read> \tightlist 
-                           
-l.1448 \tightlist
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[21]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1504.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1504.
 
 [22]
-d:/DESKTOP/Mini Projrct/output.tex:1563: Undefined control sequence.
+d:/DESKTOP/Mini Projrct/output.tex:1383: Undefined control sequence.
 <recently read> \tightlist 
                            
-l.1563 \tightlist
+l.1383 \tightlist
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -993,14 +942,30 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[23] [24] [25] (output.aux)
+[23] [24]
+Chapter 5.
+[25
+
+] [26]
+Chapter 6.
+d:/DESKTOP/Mini Projrct/output.tex:1491: Undefined control sequence.
+<recently read> \tightlist 
+                           
+l.1491 \tightlist
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[27
+
+] [28] (output.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package rerunfilecheck Warning: File `output.out' has changed.
@@ -1009,20 +974,20 @@ Package rerunfilecheck Warning: File `output.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `output.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  514B5CC97CFE24FFD4D1F97E8D63DD78;14394.
+(rerunfilecheck)             After:  F209223F46F3D3673264FB501B3090D0;12732.
  ) 
 Here is how much of TeX's memory you used:
- 19468 strings out of 467867
- 310666 string characters out of 5413459
- 745647 words of memory out of 5000000
- 47618 multiletter control sequences out of 15000+600000
- 683460 words of font info for 364 fonts, out of 8000000 for 9000
+ 19461 strings out of 467867
+ 308977 string characters out of 5413459
+ 742594 words of memory out of 5000000
+ 47579 multiletter control sequences out of 15000+600000
+ 683120 words of font info for 360 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,117p,1221b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,117p,1221b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on output.pdf (35 pages, 243123 bytes).
+Output written on output.pdf (38 pages, 248409 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
  71169 words of extra memory for PDF output out of 74296 (max. 10000000)
 

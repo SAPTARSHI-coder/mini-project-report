@@ -51,6 +51,21 @@
   \renewcommand{\footrulewidth}{0pt}
 }
 
+%───────────────────────── CHAPTER FORMAT ────────────────────────────────────
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\centering}
+  {CHAPTER \thechapter}{10pt}{\Large\bfseries\centering}
+\titlespacing*{\chapter}{0pt}{-10pt}{28pt}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{\thesubsubsection}{1em}{}
+
+%───────────────────────── TOC SPACING ───────────────────────────────────────
+\setlength{\cftbeforechapskip}{5pt}
+\renewcommand{\cftchapfont}{\bfseries}
+\renewcommand{\cftchappagefont}{\bfseries}
+
 \captionsetup{font=small, labelfont=bf, margin=10pt}
 
 \begin{document}
@@ -230,95 +245,51 @@ computational intelligence and software design.
 \end{spacing}
 
 
-\newpage
-\renewcommand{\contentsname}{Table of Contents}
-{
-\setcounter{tocdepth}{3}
+\clearpage
 \tableofcontents
-}
 
-\newpage
-\newpage
-\section{List of Tables}\label{list-of-tables}
+\clearpage
+\listoffigures
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Table 2.1:} Feature Comparison of Legacy Rule-Based Methods vs
-  Contemporary AI for LASA Detection
-\item
-  \textbf{Table 3.1:} Expected Pharmacological Drug Classes by Taxonomy
-  Diagnosis Mapping
-\item
-  \textbf{Table 3.2:} The 9-Dimensional Extracted Feature Engineering
-  Metrics Summary
-\item
-  \textbf{Table 4.1:} Performance Comparison Evaluation: Random Forest
-  vs. Gradient Boosting Estimators
-\item
-  \textbf{Table 4.2:} ML Feature Importance Evaluation Ranked by
-  Scikit-Learn Gini Impurity Metrics
-\end{itemize}
+\clearpage
+\listoftables
 
--\/-\/-
+\clearpage
+\thispagestyle{plain}
+\begin{center}
+  {\Large\textbf{LIST OF ABBREVIATIONS}}
+\end{center}
+\vspace{16pt}
 
-\newpage
-\newpage
-\section{List of Figures}\label{list-of-figures}
+\begin{longtable}{>{\bfseries}p{3cm} p{10.5cm}}
+\toprule
+\textbf{Abbreviation} & \textbf{Full Form} \\
+\midrule
+\endhead
+  \textbf{AI} & Artificial Intelligence \\[3pt]
+  \textbf{API} & Application Programming Interface \\[3pt]
+  \textbf{AUC-ROC} & Area Under the Receiver Operating Characteristic Curve \\[3pt]
+  \textbf{EHR} & Electronic Health Record \\[3pt]
+  \textbf{FHIR} & Fast Healthcare Interoperability Resources \\[3pt]
+  \textbf{GBC} & Gradient Boosting Classifier \\[3pt]
+  \textbf{ICU} & Intensive Care Unit \\[3pt]
+  \textbf{ISMP} & Institute for Safe Medication Practices \\[3pt]
+  \textbf{LASA} & Look-Alike Sound-Alike \\[3pt]
+  \textbf{ML} & Machine Learning \\[3pt]
+  \textbf{NER} & Named Entity Recognition \\[3pt]
+  \textbf{NLP} & Natural Language Processing \\[3pt]
+  \textbf{REST} & Representational State Transfer \\[3pt]
+  \textbf{RFC} & Random Forest Classifier \\[3pt]
+  \textbf{STT} & Speech-to-Text \\[3pt]
+\bottomrule
+\end{longtable}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Figure 3.1:} Master System Architecture and Sequential
-  Real-Time Inference Pipeline Flow
-\item
-  \textbf{Figure 3.2:} Backend Intermittent Training Pipeline Execution
-  Process Flowchart
-\item
-  \textbf{Figure 3.3:} Multi-stage Patient Context Validation Logic and
-  Biological Engine Execution
-\item
-  \textbf{Figure 4.1:} Normalized Confusion Matrix for the Top
-  Performing Model Array (Random Forest)
-\item
-  \textbf{Figure 4.2:} Receiver Operating Characteristic (ROC) Curve
-  Comparison of Deployed ML Models
-\end{itemize}
-
--\/-\/-
-
-\newpage
-\newpage
-\section{Abbreviations}\label{abbreviations}
-
-\textbf{AI:} Artificial Intelligence\\
-\textbf{API:} Application Programming Interface\\
-\textbf{AUC-ROC:} Area Under the Receiver Operating Characteristic
-Curve\\
-\textbf{EHR:} Electronic Health Record\\
-\textbf{FHIR:} Fast Healthcare Interoperability Resources\\
-\textbf{GBC:} Gradient Boosting Classifier\\
-\textbf{ICU:} Intensive Care Unit\\
-\textbf{ISMP:} Institute for Safe Medication Practices\\
-\textbf{LASA:} Look-Alike Sound-Alike\\
-\textbf{ML:} Machine Learning\\
-\textbf{NER:} Named Entity Recognition\\
-\textbf{NLP:} Natural Language Processing\\
-\textbf{REST:} Representational State Transfer\\
-\textbf{RFC:} Random Forest Classifier\\
-\textbf{STT:} Speech-to-Text\\
-
--\/-\/-
-
-\newpage
+\clearpage
 \pagenumbering{arabic}
 \setcounter{page}{1}
-\newpage
-\pagenumbering{arabic}
-\setcounter{page}{1}
-\section{CHAPTER 1: INTRODUCTION}\label{chapter-1-introduction}
+\chapter{Introduction}
 
-\subsubsection{1.1 General Overview}\label{general-overview}
+\section{General Overview}
 
 Modern medical civilization relies implicitly on the administration of
 complex pharmacological compounds. Medication administration exists as
@@ -343,8 +314,7 @@ categories are prescription nomenclature confusions heavily driven by
 structural string orthography anomalies and auditory pronunciation
 overlapping.
 
-\subsubsection{1.2 Understanding Medication Errors and the LASA
-Problem}\label{understanding-medication-errors-and-the-lasa-problem}
+\section{Understanding Medication Errors and the LASA Problem}
 
 In medical informatics and patient safety literature, Look-Alike
 Sound-Alike (LASA) drug nomenclature refers explicitly to localized
@@ -373,8 +343,7 @@ biologically plausible standard prescribing range for the entirely
 incorrect pharmaceutical compound, masking the error perfectly from
 traditional alert systems.
 
-\subsubsection{1.3 Disastrous Impact on Global Healthcare
-Systems}\label{disastrous-impact-on-global-healthcare-systems}
+\section{Disastrous Impact on Global Healthcare Systems}
 
 Evaluating the problem statistically, preventable medication
 administration errors routinely serve as the highly disturbing third
@@ -395,8 +364,7 @@ clinician emotional morale, and the severe, gradual systemic societal
 erosion of fundamental patient trust within sprawling global macroscopic
 public health safety grids.
 
-\subsubsection{1.4 The Evolving Role of AI in Healthcare Safety
-Networks}\label{the-evolving-role-of-ai-in-healthcare-safety-networks}
+\section{The Evolving Role of AI in Healthcare Safety Networks}
 
 Modern implementations of advanced Artificial Intelligence software
 frameworks provide a highly required, incredibly robust methodological
@@ -420,8 +388,7 @@ using heavily weighted mathematical confidence rationale selectively
 only when deeply nuanced, aggregated contextual biological anomalies
 mathematically strike defined risk thresholds.
 
-\subsubsection{1.5 Core Research Aim and Objective
-Formulation}\label{core-research-aim-and-objective-formulation}
+\section{Core Research Aim and Objective Formulation}
 
 The primary, foundational objective driving this comprehensive
 computational research engineering endeavor is to theoretically
@@ -441,8 +408,7 @@ ensuring intended pharmaceutical prescriptions align dynamically with
 established human patient cardiovascular, respiratory, and neurological
 comorbidities.
 
-\subsubsection{1.6 Distinct Novelty of the Proposed System
-Architecture}\label{distinct-novelty-of-the-proposed-system-architecture}
+\section{Distinct Novelty of the Proposed System Architecture}
 
 Classical contemporary engineering approaches predominantly utilize
 basic exact terminology dictionary matching explicitly against small,
@@ -464,8 +430,7 @@ dual-check intersection constraint radically and drastically minimizes
 incredibly unhelpful computational "alert fatigue" common to nearly all
 massive generic enterprise decision support software algorithms today.
 
-\subsubsection{1.7 Organization of the Report
-Chapters}\label{organization-of-the-report-chapters}
+\section{Organization of the Report Chapters}
 
 To comprehensively delineate the breadth of software algorithms and
 empirical validations applied, the subsequent overarching structure of
@@ -486,11 +451,9 @@ on theoretically expanding the core mathematical application.
 
 -\/-\/-
 
-\section{CHAPTER 2: LITERATURE REVIEW and THEORETICAL
-BACKGROUND}\label{chapter-2-literature-review-and-theoretical-background}
+\chapter{Literature Review And Theoretical Background}
 
-\subsubsection{2.1 General Epidemiological
-Overview}\label{general-epidemiological-overview}
+\section{General Epidemiological Overview}
 
 The complex architectural pursuit of deploying automated, un-intrusive
 digital software safety nets explicitly for critical healthcare delivery
@@ -504,9 +467,7 @@ academic algorithmic machine learning methodologies and the surprisingly
 rudimentary logical software actually deployed and utilized actively
 inside current lagging enterprise clinical infrastructures.
 
-\subsubsection{2.2 Classification of Medication Errors specifically due
-to
-LASA}\label{classification-of-medication-errors-specifically-due-to-lasa}
+\section{Classification of Medication Errors specifically due to LASA}
 
 Critically seminal pharmacological research work executed meticulously
 by Cohen (1999) establishes the heavily referenced foundational
@@ -533,8 +494,7 @@ scaling viability verifications) even while remaining biologically and
 entirely incorrect against the underlying human pathophysiology
 therapeutically.
 
-\subsubsection{2.3 Existing String Detection Algorithms and
-Techniques}\label{existing-string-detection-algorithms-and-techniques}
+\section{Existing String Detection Algorithms and Techniques}
 
 The vast overriding bulk of massively commercially available,
 expensively licensed EHR automated detection mechanisms shockingly rely
@@ -559,8 +519,7 @@ structural mathematical computational cross-referencing algorithms
 validating raw transcribed text strings continuously running in software
 backgrounds.
 
-\subsubsection{2.4 Fatal Limitations of Existing Legacy Systems (Alert
-Fatigue)}\label{fatal-limitations-of-existing-legacy-systems-alert-fatigue}
+\section{Fatal Limitations of Existing Legacy Systems (Alert Fatigue)}
 
 The fundamental, incredibly restrictive engineering limiting bottleneck
 of universally adopted modern commercial EHR logical alerting
@@ -587,8 +546,7 @@ heavily expensive safety software, bypassing actual genuine lethal
 warnings blindly, proving devastating to ultimate patient morbidity
 outcomes.
 
-\subsubsection{2.5 Emergence of Machine Learning in Predictive Drug
-Safety}\label{emergence-of-machine-learning-in-predictive-drug-safety}
+\section{Emergence of Machine Learning in Predictive Drug Safety}
 
 Extremely recent technological paradigm shifts within clinical computer
 science literature have thankfully finally begun introducing massive
@@ -612,8 +570,7 @@ documented fatal confusion precedents?" This shift provides unparalleled
 dynamic intelligence thresholds natively exceeding basic lexical
 mathematics.
 
-\subsubsection{2.6 State of NLP and Speech Processing in Contemporary
-Healthcare}\label{state-of-nlp-and-speech-processing-in-contemporary-healthcare}
+\section{State of NLP and Speech Processing in Contemporary Healthcare}
 
 Simultaneously, the dramatic recent architectural introduction of
 extremely massive auditory algorithmic transformer decoding mathematical
@@ -635,8 +592,7 @@ administration routes for `route`) which a downstream automated ML
 classifier algorithmic logical pipeline natively consumes entirely
 seamlessly without failure or complex manual formatting preprocessing.
 
-\subsubsection{2.7 Summary of Investigated
-Literature}\label{summary-of-investigated-literature}
+\section{Summary of Investigated Literature}
 
 An exhaustive, multi-disciplinary review of massively compiled existing
 literature across engineering semantics, bioinformatics, and pure
@@ -656,8 +612,7 @@ terrifying un-captured missed fatal drug distribution errors or in
 totally paralyzing massive interface alert saturation actively hindering
 and degrading clinical life-saving operator throughput.
 
-\subsubsection{2.8 Definitive Research Gap
-Identification}\label{definitive-research-gap-identification}
+\section{Definitive Research Gap Identification}
 
 Evaluating this entire intersection completely reveals there explicitly
 securely exists a highly prominent engineering integration void within
@@ -682,11 +637,9 @@ true-false unexplainable alert notifications.
 
 -\/-\/-
 
-\section{CHAPTER 3: RESEARCH METHODOLOGY AND SYSTEM
-DESIGN}\label{chapter-3-research-methodology-and-system-design}
+\chapter{Research Methodology And System Design}
 
-\subsubsection{3.1 General Framework
-Philosophy}\label{general-framework-philosophy}
+\section{General Framework Philosophy}
 
 This central algorithmic chapter completely explicitly delineates the
 comprehensively structured complex technological implementation software
@@ -703,8 +656,7 @@ models executed directly slightly prior strictly before executing final
 downstream visual HTTP delivery pipelines directly connecting clinical
 endpoints visually.
 
-\subsubsection{3.2 Comprehensive System
-Overview}\label{comprehensive-system-overview}
+\section{Comprehensive System Overview}
 
 The completely exhaustive codebase systemic structural software
 architecture is deliberately fundamentally engineered remaining entirely
@@ -737,8 +689,7 @@ frontend web component deeply Jinja2-rendered interactive HTML DOM CSS
 representation frontend providing real-time seamless clinical UI
 feedback interfaces instantly.
 
-\subsubsection{3.3 Detailed Architecture Design and Pipeline
-Interactions}\label{detailed-architecture-design-and-pipeline-interactions}
+\section{Detailed Architecture Design and Pipeline Interactions}
 
 The overarching execution boundary of the core primary Inference Process
 Pipeline reliably rapidly seamlessly iteratively executes perfectly
@@ -782,8 +733,7 @@ array identified mathematically distinctly inside explicit Module 08
 calculating numeric scaling scalars emitting precisely calculated
 ultimate transparent API payload arrays.
 
-\subsubsection{3.4 Data Collection Methodologies and PDF
-Parsing}\label{data-collection-methodologies-and-pdf-parsing}
+\section{Data Collection Methodologies and PDF Parsing}
 
 The foundational primary baseline original source mapping establishing
 fundamental empirical algorithmic ground mathematical absolute truth
@@ -830,8 +780,7 @@ prediction class numeric repository absolutely necessary executing
 supervised modeling operations predictably consistently perfectly
 repeatedly.
 
-\subsubsection{3.5 Data Preprocessing and Algorithmic
-Sanitization}\label{data-preprocessing-and-algorithmic-sanitization}
+\section{Data Preprocessing and Algorithmic Sanitization}
 
 Subsequent massive explicit computational tabular numerical datasets
 strictly rigorously sequentially undergo intensive complex algorithmic
@@ -865,9 +814,7 @@ correctly isolating absolutely accurately cleanly uniformly mapping
 absolutely identically preserving structures efficiently exactly
 natively flawlessly dynamically.
 
-\subsubsection{3.6 9-Dimensional Feature Engineering (In-Depth
-Mathematical
-Models)}\label{dimensional-feature-engineering-in-depth-mathematical-models}
+\section{9-Dimensional Feature Engineering (In-Depth Mathematical Models)}
 
 Complex high-level Feature representation Mathematical Engineering
 completely explicitly encapsulates natively essentially securely
@@ -1023,8 +970,7 @@ Metrics Summary{]}}
   cleanly exactly lengths.
 \end{itemize}
 
-\subsubsection{3.7 Iterative Model Development and Classifier
-Selection}\label{iterative-model-development-and-classifier-selection}
+\section{Iterative Model Development and Classifier Selection}
 
 The resulting deeply high-dimensional complex matrix vectors produced
 entirely mathematically dynamically dynamically enforce require the
@@ -1075,8 +1021,7 @@ identically bounds matching execution. Trees algorithms algorithms
 algorithm parameters executing dynamically uniquely execute explicitly
 execution.
 
-\subsubsection{3.8 Model Evaluation Standards and Metric
-Tracking}\label{model-evaluation-standards-and-metric-tracking}
+\section{Model Evaluation Standards and Metric Tracking}
 
 Verification execution processes reliably occurs utilizing strictly
 enforced strictly validated standard mathematically validated execution
@@ -1096,8 +1041,7 @@ testing exactly predicting dynamically precisely protecting effectively
 intelligently tracking mapping predicting effectively explicitly safely
 algorithms safely parameters mapping string predicting arrays exactly.
 
-\subsubsection{3.9 Speech-to-Text Architectural Integration (OpenAI
-Whisper)}\label{speech-to-text-architectural-integration-openai-whisper}
+\section{Speech-to-Text Architectural Integration (OpenAI Whisper)}
 
 The deployed execution framework seamlessly successfully accurately
 robustly seamlessly integrates precisely dynamically execution
@@ -1137,8 +1081,7 @@ exact HIPAA tracking patient tracking execution compliance dynamic
 correctly perfectly completely flawless tracking execution entirely
 accurately exactly perfectly.
 
-\subsubsection{3.10 Advanced NLP Dictation Drug Extraction
-Logic}\label{advanced-nlp-dictation-drug-extraction-logic}
+\section{Advanced NLP Dictation Drug Extraction Logic}
 
 Entirely incredibly noisy arbitrary exactly totally grammatically
 precisely entirely highly perfectly exactly correctly totally entirely
@@ -1186,8 +1129,7 @@ precisely mapping isolating exactly absolute absolute executing
 structural variables explicitly arrays precisely execution effectively
 array strings mapping parameters exactly arrays formatting.
 
-\subsubsection{3.11 Biological Patient Context Validation
-Mapping}\label{biological-patient-context-validation-mapping}
+\section{Biological Patient Context Validation Mapping}
 
 To extremely explicitly intentionally accurately efficiently perfectly
 dramatically totally perfectly effectively comprehensively highly
@@ -1266,8 +1208,7 @@ dynamically formatting reliably formatting precisely variables securely
 tracking correctly completely parameters precisely dynamically perfectly
 safely cleanly processing uniquely cleanly arrays.
 
-\subsubsection{3.12 Fused Multi-Signal Decision Engine Logic
-Pathing}\label{fused-multi-signal-decision-engine-logic-pathing}
+\section{Fused Multi-Signal Decision Engine Logic Pathing}
 
 Entirely exactly precisely totally clean completely exactly safely
 tracking fully mapping exactly processing completely precisely executing
@@ -1291,11 +1232,9 @@ specific.
 
 -\/-\/-
 
-\section{CHAPTER 4: EMPIRICAL RESULTS AND SYSTEM
-DISCUSSION}\label{chapter-4-empirical-results-and-system-discussion}
+\chapter{Empirical Results And System Discussion}
 
-\subsubsection{4.1 General Pipeline Performance
-Results}\label{general-pipeline-performance-results}
+\section{General Pipeline Performance Results}
 
 The completely precisely developed entirely exactly structurally
 correctly cleanly exactly entirely dynamically explicit successfully
@@ -1324,8 +1263,7 @@ dynamically precise precisely parsing processing exact cleanly
 gracefully gracefully smoothly safely gracefully clean clean safely
 intelligently gracefully precisely array successfully variables.
 
-\subsubsection{4.2 Algorithmic Model Performance Comparison
-Evaluation}\label{algorithmic-model-performance-comparison-evaluation}
+\section{Algorithmic Model Performance Comparison Evaluation}
 
 During exact initial mapping testing array completely testing formatting
 limits processing dynamically boundaries specific limits limits
@@ -1375,8 +1313,7 @@ parsing precisely safely mapping strings handling.
   successfully efficiently.
 \end{itemize}
 
-\subsubsection{4.3 Realistic Clinical Example Case
-Studies}\label{realistic-clinical-example-case-studies}
+\section{Realistic Clinical Example Case Studies}
 
 Empirical continuous manual interface regression testing executing
 exactly perfectly strings seamlessly completely testing exactly cleanly
@@ -1425,8 +1362,7 @@ cleanly uniquely seamlessly tracking securely.
   smoothly correctly gracefully successfully.
 \end{itemize}
 
-\subsubsection{4.4 JSON System Output Architecture
-Analysis}\label{json-system-output-architecture-analysis}
+\section{JSON System Output Architecture Analysis}
 
 Outputs completely securely strictly algorithmically consistently
 mathematically gracefully entirely flawlessly entirely reliably deeply
@@ -1441,8 +1377,7 @@ uniquely safely efficiently successfully mapping properly handled
 properly handles handled parsed parameters gracefully intelligently
 parsed safely successfully smoothly parameters testing parameters.
 
-\subsubsection{4.5 Identifiable Advantages over Traditional Detection
-Methods}\label{identifiable-advantages-over-traditional-detection-methods}
+\section{Identifiable Advantages over Traditional Detection Methods}
 
 \begin{itemize}
 \tightlist
@@ -1468,8 +1403,7 @@ Methods}\label{identifiable-advantages-over-traditional-detection-methods}
   seamlessly string efficiently seamlessly uniquely cleanly mapped.
 \end{itemize}
 
-\subsubsection{4.6 Outlined Technical and Semantic Limitations of the
-System}\label{outlined-technical-and-semantic-limitations-of-the-system}
+\section{Outlined Technical and Semantic Limitations of the System}
 
 Currently exactly effectively totally precise completely fully
 efficiently cleanly entirely safely deeply gracefully successfully
@@ -1480,8 +1414,7 @@ parsed smoothly parsing efficiently safely natively dynamically
 seamlessly smoothly actively correctly safely seamlessly seamlessly
 cleanly securely parsing parameters explicitly seamlessly flawlessly.
 
-\subsubsection{4.7 Extensive Discussion on Clinical
-Validity}\label{extensive-discussion-on-clinical-validity}
+\section{Extensive Discussion on Clinical Validity}
 
 The completely heavily rigorously flawlessly gracefully actively
 accurately totally gracefully smoothly processed safely deeply
@@ -1497,11 +1430,9 @@ perfectly handling securely.
 
 -\/-\/-
 
-\section{CHAPTER 5: FINAL FINDINGS AND
-CONCLUSION}\label{chapter-5-final-findings-and-conclusion}
+\chapter{Final Findings And Conclusion}
 
-\subsubsection{5.1 Summary of Key Epidemiological and Algorithmic
-Findings}\label{summary-of-key-epidemiological-and-algorithmic-findings}
+\section{Summary of Key Epidemiological and Algorithmic Findings}
 
 The deeply intense specific application execution of highly modern
 completely exactly accurately contemporary exactly carefully fully
@@ -1515,8 +1446,7 @@ expertly reliably tracking tracking neatly perfectly explicitly
 effectively reliably parsing smartly elegantly natively smoothly mapping
 safely correctly.
 
-\subsubsection{5.2 Definitive Conclusion of Research
-Impact}\label{definitive-conclusion-of-research-impact}
+\section{Definitive Conclusion of Research Impact}
 
 This massive capstone endeavor explicitly correctly entirely confidently
 carefully carefully gracefully accurately cleanly parsing gracefully
@@ -1528,8 +1458,7 @@ properly maps cleanly correctly smartly cleanly seamlessly properly
 tracking reliably string actively explicitly neatly correctly carefully
 properly explicitly.
 
-\subsubsection{5.3 Current Technical
-Limitations}\label{current-technical-limitations}
+\section{Current Technical Limitations}
 
 System entirely completely exact specifically carefully explicitly
 correctly correctly smoothly completely fully properly gracefully
@@ -1541,8 +1470,7 @@ carefully cleanly correctly mapping carefully fully parsing exactly
 mapping safely perfectly safely cleanly flawlessly elegantly correctly
 carefully handling specifically.
 
-\subsubsection{5.4 Identified Future Scopes and Expansion
-Architectures}\label{identified-future-scopes-and-expansion-architectures}
+\section{Identified Future Scopes and Expansion Architectures}
 
 Prospective massive algorithmically explicit architecture enhancements
 definitely deliberately exactly perfectly accurately properly completely
@@ -1557,7 +1485,7 @@ perfectly properly.
 
 -\/-\/-
 
-\section{CHAPTER 6: REFERENCES}\label{chapter-6-references}
+\chapter{References}
 
 \begin{enumerate}
 \tightlist
