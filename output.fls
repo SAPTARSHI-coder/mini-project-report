@@ -1,6 +1,6 @@
 PWD D:\DESKTOP\Mini Projrct
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\DESKTOP\Mini Projrct\output.tex
+INPUT output.tex
 OUTPUT output.log
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -216,6 +216,13 @@ OUTPUT output.out
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
+INPUT .\Adamas_University_Logo.png
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
@@ -279,6 +286,10 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ne
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
@@ -290,10 +301,6 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ne
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd

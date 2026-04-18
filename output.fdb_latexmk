@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1776531535.49167 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776531537.13106 0
+["pdflatex"] 1776531749.23019 "output.tex" "output.pdf" "output" 1776531750.55054 0
+  "Adamas_University_Logo.png" 1776281745.25537 22959 630a5d64749ebf9547591e7df0f3e866 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776281418.59608 164858 1926c8d7bd1823f0c8393a5c0272d2d9 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775500618.50174 13338724 d5558362a69863122e5268b1cb7cd4d7 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1736607166 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -132,12 +133,12 @@
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "d:/DESKTOP/Mini Projrct/output.tex" 1776531533.65853 92164 a84256bb30bd88cfafa60d12604b5d12 ""
-  "output.aux" 1776531536.88372 9266 00d2196c7f4dea72a17c7888f85a6114 "pdflatex"
-  "output.lof" 1776531536.90345 738 ec1145d346cebd0e7a1a01a55d8933ff "pdflatex"
-  "output.lot" 1776531536.90345 418 03647c23f45d2d7afccd05bd5a20509a "pdflatex"
-  "output.out" 1776531536.89482 12732 f209223f46f3d3673264fb501b3090d0 "pdflatex"
-  "output.toc" 1776531536.90345 4670 f78bd6f45016f904b10a7dc023b5d103 "pdflatex"
+  "output.aux" 1776531750.27555 9266 4be2a83dd0d1c7620db06e81f4c705d2 "pdflatex"
+  "output.lof" 1776531750.29263 738 ec1145d346cebd0e7a1a01a55d8933ff "pdflatex"
+  "output.lot" 1776531750.29263 418 03647c23f45d2d7afccd05bd5a20509a "pdflatex"
+  "output.out" 1776531750.28513 12732 f209223f46f3d3673264fb501b3090d0 "pdflatex"
+  "output.tex" 1776531739.6383 92242 3b159a3cc37694cee9d1aff7925a29ba ""
+  "output.toc" 1776531750.29263 4670 f78bd6f45016f904b10a7dc023b5d103 "pdflatex"
   (generated)
   "output.aux"
   "output.lof"
