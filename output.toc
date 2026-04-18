@@ -1,51 +1,49 @@
-\contentsline {section}{Certificate}{i}{section*.1}%
-\contentsline {section}{Declaration}{ii}{section*.2}%
-\contentsline {section}{Abstract}{iii}{section*.3}%
-\contentsline {section}{Acknowledgements}{v}{section*.4}%
-\contentsline {section}{List of Tables}{viii}{section*.6}%
-\contentsline {section}{List of Figures}{ix}{section*.7}%
-\contentsline {section}{Abbreviations}{x}{section*.8}%
-\contentsline {section}{CHAPTER 1: INTRODUCTION}{1}{section*.9}%
-\contentsline {subsubsection}{1.1 General Overview}{1}{section*.10}%
-\contentsline {subsubsection}{1.2 Understanding Medication Errors and the LASA Problem}{1}{section*.11}%
-\contentsline {subsubsection}{1.3 Disastrous Impact on Global Healthcare Systems}{2}{section*.12}%
-\contentsline {subsubsection}{1.4 The Evolving Role of AI in Healthcare Safety Networks}{2}{section*.13}%
-\contentsline {subsubsection}{1.5 Core Research Aim and Objective Formulation}{3}{section*.14}%
-\contentsline {subsubsection}{1.6 Distinct Novelty of the Proposed System Architecture}{3}{section*.15}%
-\contentsline {subsubsection}{1.7 Organization of the Report Chapters}{4}{section*.16}%
-\contentsline {section}{CHAPTER 2: LITERATURE REVIEW and THEORETICAL BACKGROUND}{4}{section*.17}%
-\contentsline {subsubsection}{2.1 General Epidemiological Overview}{4}{section*.18}%
-\contentsline {subsubsection}{2.2 Classification of Medication Errors specifically due to LASA}{5}{section*.19}%
-\contentsline {subsubsection}{2.3 Existing String Detection Algorithms and Techniques}{5}{section*.20}%
-\contentsline {subsubsection}{2.4 Fatal Limitations of Existing Legacy Systems (Alert Fatigue)}{6}{section*.21}%
-\contentsline {subsubsection}{2.5 Emergence of Machine Learning in Predictive Drug Safety}{6}{section*.22}%
-\contentsline {subsubsection}{2.6 State of NLP and Speech Processing in Contemporary Healthcare}{7}{section*.23}%
-\contentsline {subsubsection}{2.7 Summary of Investigated Literature}{7}{section*.24}%
-\contentsline {subsubsection}{2.8 Definitive Research Gap Identification}{8}{section*.25}%
-\contentsline {section}{CHAPTER 3: RESEARCH METHODOLOGY AND SYSTEM DESIGN}{9}{section*.26}%
-\contentsline {subsubsection}{3.1 General Framework Philosophy}{9}{section*.27}%
-\contentsline {subsubsection}{3.2 Comprehensive System Overview}{9}{section*.28}%
-\contentsline {subsubsection}{3.3 Detailed Architecture Design and Pipeline Interactions}{10}{section*.29}%
-\contentsline {subsubsection}{3.4 Data Collection Methodologies and PDF Parsing}{11}{section*.30}%
-\contentsline {subsubsection}{3.5 Data Preprocessing and Algorithmic Sanitization}{12}{section*.31}%
-\contentsline {subsubsection}{3.6 9-Dimensional Feature Engineering (In-Depth Mathematical Models)}{12}{section*.32}%
-\contentsline {subsubsection}{3.7 Iterative Model Development and Classifier Selection}{16}{section*.33}%
-\contentsline {subsubsection}{3.8 Model Evaluation Standards and Metric Tracking}{17}{section*.34}%
-\contentsline {subsubsection}{3.9 Speech-to-Text Architectural Integration (OpenAI Whisper)}{17}{section*.35}%
-\contentsline {subsubsection}{3.10 Advanced NLP Dictation Drug Extraction Logic}{18}{section*.36}%
-\contentsline {subsubsection}{3.11 Biological Patient Context Validation Mapping}{19}{section*.37}%
-\contentsline {subsubsection}{3.12 Fused Multi-Signal Decision Engine Logic Pathing}{21}{section*.38}%
-\contentsline {section}{CHAPTER 4: EMPIRICAL RESULTS AND SYSTEM DISCUSSION}{22}{section*.39}%
-\contentsline {subsubsection}{4.1 General Pipeline Performance Results}{22}{section*.40}%
-\contentsline {subsubsection}{4.2 Algorithmic Model Performance Comparison Evaluation}{22}{section*.41}%
-\contentsline {subsubsection}{4.3 Realistic Clinical Example Case Studies}{23}{section*.42}%
-\contentsline {subsubsection}{4.4 JSON System Output Architecture Analysis}{25}{section*.43}%
-\contentsline {subsubsection}{4.5 Identifiable Advantages over Traditional Detection Methods}{25}{section*.44}%
-\contentsline {subsubsection}{4.6 Outlined Technical and Semantic Limitations of the System}{25}{section*.45}%
-\contentsline {subsubsection}{4.7 Extensive Discussion on Clinical Validity}{26}{section*.46}%
-\contentsline {section}{CHAPTER 5: FINAL FINDINGS AND CONCLUSION}{26}{section*.47}%
-\contentsline {subsubsection}{5.1 Summary of Key Epidemiological and Algorithmic Findings}{26}{section*.48}%
-\contentsline {subsubsection}{5.2 Definitive Conclusion of Research Impact}{26}{section*.49}%
-\contentsline {subsubsection}{5.3 Current Technical Limitations}{27}{section*.50}%
-\contentsline {subsubsection}{5.4 Identified Future Scopes and Expansion Architectures}{27}{section*.51}%
-\contentsline {section}{CHAPTER 6: REFERENCES}{27}{section*.52}%
+\contentsline {section}{Abstract}{ii}{Doc-Start}%
+\contentsline {section}{Acknowledgements}{v}{Doc-Start}%
+\contentsline {section}{\numberline {0.1}List of Tables}{vii}{section.0.1}%
+\contentsline {section}{\numberline {0.2}List of Figures}{viii}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Abbreviations}{ix}{section.0.3}%
+\contentsline {section}{\numberline {0.4}CHAPTER 1: INTRODUCTION}{1}{section.0.4}%
+\contentsline {subsubsection}{1.1 General Overview}{1}{section*.1}%
+\contentsline {subsubsection}{1.2 Understanding Medication Errors and the LASA Problem}{1}{section*.1}%
+\contentsline {subsubsection}{1.3 Disastrous Impact on Global Healthcare Systems}{2}{section*.1}%
+\contentsline {subsubsection}{1.4 The Evolving Role of AI in Healthcare Safety Networks}{2}{section*.1}%
+\contentsline {subsubsection}{1.5 Core Research Aim and Objective Formulation}{2}{section*.1}%
+\contentsline {subsubsection}{1.6 Distinct Novelty of the Proposed System Architecture}{3}{section*.1}%
+\contentsline {subsubsection}{1.7 Organization of the Report Chapters}{3}{section*.1}%
+\contentsline {section}{\numberline {0.5}CHAPTER 2: LITERATURE REVIEW and THEORETICAL BACKGROUND}{4}{section.0.5}%
+\contentsline {subsubsection}{2.1 General Epidemiological Overview}{4}{section*.2}%
+\contentsline {subsubsection}{2.2 Classification of Medication Errors specifically due to LASA}{4}{section*.2}%
+\contentsline {subsubsection}{2.3 Existing String Detection Algorithms and Techniques}{5}{section*.2}%
+\contentsline {subsubsection}{2.4 Fatal Limitations of Existing Legacy Systems (Alert Fatigue)}{5}{section*.2}%
+\contentsline {subsubsection}{2.5 Emergence of Machine Learning in Predictive Drug Safety}{6}{section*.2}%
+\contentsline {subsubsection}{2.6 State of NLP and Speech Processing in Contemporary Healthcare}{6}{section*.2}%
+\contentsline {subsubsection}{2.7 Summary of Investigated Literature}{6}{section*.2}%
+\contentsline {subsubsection}{2.8 Definitive Research Gap Identification}{7}{section*.2}%
+\contentsline {section}{\numberline {0.6}CHAPTER 3: RESEARCH METHODOLOGY AND SYSTEM DESIGN}{7}{section.0.6}%
+\contentsline {subsubsection}{3.1 General Framework Philosophy}{7}{section*.3}%
+\contentsline {subsubsection}{3.2 Comprehensive System Overview}{8}{section*.3}%
+\contentsline {subsubsection}{3.3 Detailed Architecture Design and Pipeline Interactions}{8}{section*.3}%
+\contentsline {subsubsection}{3.4 Data Collection Methodologies and PDF Parsing}{9}{section*.3}%
+\contentsline {subsubsection}{3.5 Data Preprocessing and Algorithmic Sanitization}{10}{section*.3}%
+\contentsline {subsubsection}{3.6 9-Dimensional Feature Engineering (In-Depth Mathematical Models)}{11}{section*.3}%
+\contentsline {subsubsection}{3.7 Iterative Model Development and Classifier Selection}{14}{section*.3}%
+\contentsline {subsubsection}{3.8 Model Evaluation Standards and Metric Tracking}{15}{section*.3}%
+\contentsline {subsubsection}{3.9 Speech-to-Text Architectural Integration (OpenAI Whisper)}{15}{section*.3}%
+\contentsline {subsubsection}{3.10 Advanced NLP Dictation Drug Extraction Logic}{16}{section*.3}%
+\contentsline {subsubsection}{3.11 Biological Patient Context Validation Mapping}{17}{section*.3}%
+\contentsline {subsubsection}{3.12 Fused Multi-Signal Decision Engine Logic Pathing}{18}{section*.3}%
+\contentsline {section}{\numberline {0.7}CHAPTER 4: EMPIRICAL RESULTS AND SYSTEM DISCUSSION}{19}{section.0.7}%
+\contentsline {subsubsection}{4.1 General Pipeline Performance Results}{19}{section*.4}%
+\contentsline {subsubsection}{4.2 Algorithmic Model Performance Comparison Evaluation}{19}{section*.4}%
+\contentsline {subsubsection}{4.3 Realistic Clinical Example Case Studies}{20}{section*.4}%
+\contentsline {subsubsection}{4.4 JSON System Output Architecture Analysis}{21}{section*.4}%
+\contentsline {subsubsection}{4.5 Identifiable Advantages over Traditional Detection Methods}{21}{section*.4}%
+\contentsline {subsubsection}{4.6 Outlined Technical and Semantic Limitations of the System}{22}{section*.4}%
+\contentsline {subsubsection}{4.7 Extensive Discussion on Clinical Validity}{22}{section*.4}%
+\contentsline {section}{\numberline {0.8}CHAPTER 5: FINAL FINDINGS AND CONCLUSION}{22}{section.0.8}%
+\contentsline {subsubsection}{5.1 Summary of Key Epidemiological and Algorithmic Findings}{22}{section*.5}%
+\contentsline {subsubsection}{5.2 Definitive Conclusion of Research Impact}{23}{section*.5}%
+\contentsline {subsubsection}{5.3 Current Technical Limitations}{23}{section*.5}%
+\contentsline {subsubsection}{5.4 Identified Future Scopes and Expansion Architectures}{23}{section*.5}%
+\contentsline {section}{\numberline {0.9}CHAPTER 6: REFERENCES}{23}{section.0.9}%

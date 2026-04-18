@@ -1,0 +1,11 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Structural Distribution of the Tomato Leaf Dataset}}{12}{table.caption.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Data Augmentation Parameters Applied During Training}}{14}{table.caption.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Layered Configuration and Parameters of the CNN Model}}{15}{table.caption.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Training Hyperparameter Specifications}}{15}{table.caption.4}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Model Performance Metrics on the Test Set}}{20}{table.caption.6}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

@@ -1,7 +1,7 @@
 PWD D:\DESKTOP\Mini Projrct
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\DESKTOP\Mini Projrct\output.tex
-OUTPUT output.log
+INPUT d:\DESKTOP\Mini Projrct\Tomato_Leaf_Disease_Report.tex
+OUTPUT Tomato_Leaf_Disease_Report.log
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -162,6 +162,19 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\c
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
@@ -180,10 +193,10 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT .\output.aux
-INPUT .\output.aux
-INPUT output.aux
-OUTPUT output.aux
+INPUT .\Tomato_Leaf_Disease_Report.aux
+INPUT .\Tomato_Leaf_Disease_Report.aux
+INPUT Tomato_Leaf_Disease_Report.aux
+OUTPUT Tomato_Leaf_Disease_Report.aux
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
@@ -205,11 +218,15 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-OUTPUT output.out
-OUTPUT output.pdf
+OUTPUT Tomato_Leaf_Disease_Report.out
+OUTPUT Tomato_Leaf_Disease_Report.pdf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txtt.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
@@ -253,10 +270,10 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ne
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
@@ -277,33 +294,67 @@ INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\new
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Italic-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
+OUTPUT Tomato_Leaf_Disease_Report.toc
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
+OUTPUT Tomato_Leaf_Disease_Report.lof
+OUTPUT Tomato_Leaf_Disease_Report.lot
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
-INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-OUTPUT output.toc
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-BoldItalic-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXBMI.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmia.vf
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Italic-tlf-ot1.vf
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1r.tfm
-INPUT output.aux
-INPUT .\output.out
-INPUT .\output.out
+INPUT Tomato_Leaf_Disease_Report.aux
+INPUT .\Tomato_Leaf_Disease_Report.out
+INPUT .\Tomato_Leaf_Disease_Report.out
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txmiaX.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txmiaX.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txtt.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txtt.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
+INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb

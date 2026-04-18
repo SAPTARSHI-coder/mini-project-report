@@ -1,134 +1,159 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
-\documentclass[12pt,a4paper]{article}
-\usepackage{mathptmx} % Times New Roman
-\usepackage{setspace}
-\setstretch{1.4}
-\usepackage[margin=1in]{geometry}
-\usepackage{xcolor}
-\usepackage{amsmath,amssymb}
-\setcounter{secnumdepth}{0}
-\usepackage{iftex}
-\ifPDFTeX
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
-\fi
-% Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\usepackage{bookmark}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
+\documentclass[12pt,a4paper]{report}
 
-\author{}
-\date{}
+%─────────────────────────── PACKAGES ──────────────────────────────────────
+\usepackage{newtxtext,newtxmath}
+\usepackage[a4paper, margin=1in, top=1in, bottom=1in]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{emptypage}
+\usepackage{ragged2e}
+
+\setlength{\headheight}{14pt}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue,
+    pdftitle={AI-Based Detection of Confusable Drug Names for LASA Error Prevention},
+    pdfauthor={Saptarshi Sadhu et al.}
+}
+
+\captionsetup{font=small, labelfont=bf, margin=10pt}
 
 \begin{document}
 \pagenumbering{roman}
 
-\newpage
-\section*{\centering \huge \bfseries Certificate}
-\addcontentsline{toc}{section}{Certificate}
-\vspace{1cm}
-
-This is to certify that the project report entitled \textbf{"AI-Based
-Detection of Confusable Drug Names for Look-Alike Sound-Alike (LASA)
-Error Prevention"} submitted by \textbf{Saptarshi Sadhu, Shubhajit Mandal, Debargha Brahma, Samrat Patra} in partial fulfillment for the award of the Degree of Bachelor
-of Technology in Computer Science and
-Engineering Specialization in Artificial Intelligence and Machine Learning from Adamas University is a bonafide
-record of the project work carried out under my supervision and
-guidance. The work presented in this comprehensively compiled report has
-not been submitted elsewhere for any other degree, diploma, or academic
-certification. It accurately documents the software architecture,
-machine learning theoretical models, and empirical testing executed over
-the duration of the 4th Semester capstone project.\\\\\\\\
-\begin{flushright}
-\textbf{Signature of Guide:} \rule{8cm}{0.6pt} \\
-
-Project Supervisor: Dr. Jhilam Mukherjee \\
-Designation: Assistant Professor \\
-Department of Computer Science \& Engineering, Adamas University
-\end{flushright}
-
-\vspace{7.5cm}
-
-\textbf{Date:} 13/03/2026\\
-\textbf{Place:} \textit{Kolkata}
-
-\newpage
-\section*{\centering \huge \bfseries Declaration}
-\addcontentsline{toc}{section}{Declaration}
-\vspace{1cm}
-
-I hereby declare that the project entitled \textbf{"AI-Based Detection
-of Confusable Drug Names for Look-Alike Sound-Alike (LASA) Error
-Prevention"} is an authentic reflection of my own original work carried
-out as a 4th Semester B.Tech project. Any references to the work,
-concepts, methodologies, data science principles, or algorithms of other
-researchers have been properly cited and formally acknowledged in the
-text and exhaustive bibliography. I further declare that this work has
-not been submitted previously in whole or in part to any other
-university, organization, or academic engineering institution for any
-other academic degree, diploma, publication, or certification. The
-codebase, model training paradigms, and architectural diagrams portrayed
-herein represent original systematic engineering efforts.\\
-
-\textbf{Signature:} \rule{13.5cm}{0.6pt} 
+%═══════════════════════════════════════════════════════════════════════════
+%                            TITLE PAGE
+%═══════════════════════════════════════════════════════════════════════════
+\begin{titlepage}
+\thispagestyle{empty}
 \begin{center}
-Saptarshi Sadhu(UG/SOET/30/24/288) \\
-\end{center}
-\vspace{1cm}
 
-\textbf{Signature:} \rule{13.5cm}{0.6pt} 
-\begin{center}
-Shubhajit Mandal(UG/SOET/30/24/337) \\
-\end{center}
-\vspace{1cm}
+\vspace{10pt}
+\hrule height 0.8pt
+\vspace{8pt}
 
-\textbf{Signature:} \rule{13.5cm}{0.6pt} 
-\begin{center}
-Debargha Brahma(UG/SOET/30/24/293) \\
-\end{center}
-\vspace{1cm}
+{\Large\textbf{ADAMAS UNIVERSITY}}\\[3pt]
+{\normalsize Barasat, Kolkata -- 700126, West Bengal, India}\\[3pt]
+{\normalsize Department of Computer Science and Engineering}\\[3pt]
+{\normalsize Specialization in Artificial Intelligence and Machine Learning}
 
-\textbf{Signature:} \rule{13.5cm}{0.6pt} 
-\begin{center}
-Samrat Patra(UG/SOET/30/24/218) \\
+\vspace{8pt}
+\hrule height 0.8pt
+\vspace{22pt}
+
+{\LARGE\textbf{AI-BASED DETECTION OF CONFUSABLE DRUG}}\\[8pt]
+{\LARGE\textbf{NAMES FOR LOOK-ALIKE SOUND-ALIKE}}\\[8pt]
+{\LARGE\textbf{(LASA) ERROR PREVENTION}}
+
+\vspace{16pt}
+
+{\large A Project Report Submitted for \textit{Mini Project}}\\[4pt]
+{\large of}\\[4pt]
+{\large\textbf{Bachelor of Technology in Computer Science and Engineering}}
+
+\vspace{22pt}
+
+{\large\textbf{Submitted by}}
+
+\vspace{10pt}
+\begin{tabular}{@{\hspace{1cm}}r@{\quad}l@{\quad -- \quad}l@{}}
+  1. & Saptarshi Sadhu   & Roll No.~UG/SOET/30/24/288 \\[5pt]
+  2. & Shubhajit Mandal  & Roll No.~UG/SOET/30/24/337 \\[5pt]
+  3. & Debargha Brahma   & Roll No.~UG/SOET/30/24/293 \\[5pt]
+  4. & Samrat Patra      & Roll No.~UG/SOET/30/24/218 \\[5pt]
+\end{tabular}
+
+\vspace{18pt}
+
+{\large\textbf{Under the Guidance of}}
+
+\vspace{8pt}
+{\large\textbf{Dr. Jhilam Mukherjee}}\\[3pt]
+{\normalsize Assistant Professor, Department of Computer Science and Engineering}\\[2pt]
+{\normalsize Adamas University, Kolkata}
+
+\vfill
+
+\hrule height 0.6pt
+\vspace{8pt}
+{\normalsize Department of Computer Science \& Engineering \enspace$\bullet$\enspace Adamas University \enspace$\bullet$\enspace March 2026}
+
 \end{center}
-\vspace{1cm}
-\newpage
+\end{titlepage}
+
+%═══════════════════════════════════════════════════════════════════════════
+%                            CERTIFICATE
+%═══════════════════════════════════════════════════════════════════════════
+\clearpage
+\thispagestyle{plain}
+\begin{center}
+  {\Large\textbf{CERTIFICATE}}
+\end{center}
+\vspace{16pt}
+
+\begin{spacing}{1.5}
+This is to certify that the project report entitled \textbf{"AI-Based Detection of Confusable Drug Names for Look-Alike Sound-Alike (LASA) Error Prevention"} submitted by \textbf{Saptarshi Sadhu, Shubhajit Mandal, Debargha Brahma, Samrat Patra} in partial fulfillment for the award of the Degree of Bachelor of Technology in Computer Science and Engineering Specialization in Artificial Intelligence and Machine Learning from Adamas University is a bonafide record of the project work carried out under my supervision and guidance. The work presented in this comprehensively compiled report has not been submitted elsewhere for any other degree, diploma, or academic certification. It accurately documents the software architecture, machine learning theoretical models, and empirical testing executed over the duration of the 4th Semester capstone project.
+\end{spacing}
+
+\vspace{36pt}
+\noindent\begin{tabular}{p{7.5cm}p{6cm}}
+  \textbf{Signature of Supervisor} & \textbf{Signature of Head of Department} \\[28pt]
+  \rule{5.5cm}{0.4pt} & \rule{5.5cm}{0.4pt}\\[4pt]
+  \textbf{Dr.\ Jhilam Mukherjee} & \textbf{Head of Department}\\
+  Assistant Professor & Department of CSE\\
+  Department of CSE & Adamas University\\
+  Adamas University & \\
+\end{tabular}
+
+\vspace{1.5cm}
+\noindent\textbf{Place:} Kolkata \hspace{2cm} \textbf{Date:} 13 March 2026
+
+%═══════════════════════════════════════════════════════════════════════════
+%                            DECLARATION
+%═══════════════════════════════════════════════════════════════════════════
+\clearpage
+\thispagestyle{plain}
+\begin{center}
+  {\Large\textbf{DECLARATION}}
+\end{center}
+\vspace{16pt}
+
+\begin{spacing}{1.5}
+I hereby declare that the project entitled \textbf{"AI-Based Detection of Confusable Drug Names for Look-Alike Sound-Alike (LASA) Error Prevention"} is an authentic reflection of my own original work carried out as a 4th Semester B.Tech project. Any references to the work, concepts, methodologies, data science principles, or algorithms of other researchers have been properly cited and formally acknowledged in the text and exhaustive bibliography. I further declare that this work has not been submitted previously in whole or in part to any other university, organization, or academic engineering institution for any other academic degree, diploma, publication, or certification. The codebase, model training paradigms, and architectural diagrams portrayed herein represent original systematic engineering efforts.
+\end{spacing}
+
+\vspace{36pt}
+\noindent\textbf{Signatures of Candidates:}
+
+\vspace{16pt}
+\noindent\begin{tabular}{@{\hspace{0.5cm}}r@{\quad}l@{\qquad}l}
+  1. & Saptarshi Sadhu  (UG/SOET/30/24/288) & \rule{5cm}{0.4pt} \\[12pt]
+  2. & Shubhajit Mandal (UG/SOET/30/24/337) & \rule{5cm}{0.4pt} \\[12pt]
+  3. & Debargha Brahma  (UG/SOET/30/24/293) & \rule{5cm}{0.4pt} \\[12pt]
+  4. & Samrat Patra     (UG/SOET/30/24/218) & \rule{5cm}{0.4pt} \\
+\end{tabular}
 \section*{\huge \bfseries Abstract}
 \addcontentsline{toc}{section}{Abstract}
-\vspace{1cm}
+\vspace{0.5cm}
 
 \begin{spacing}{1.5}
 
@@ -197,6 +222,7 @@ computational intelligence and software design.
 }
 
 \newpage
+\newpage
 \section{List of Tables}\label{list-of-tables}
 
 \begin{itemize}
@@ -220,6 +246,7 @@ computational intelligence and software design.
 
 -\/-\/-
 
+\newpage
 \newpage
 \section{List of Figures}\label{list-of-figures}
 
@@ -245,6 +272,7 @@ computational intelligence and software design.
 -\/-\/-
 
 \newpage
+\newpage
 \section{Abbreviations}\label{abbreviations}
 
 \textbf{AI:} Artificial Intelligence\\
@@ -266,6 +294,9 @@ Curve\\
 
 -\/-\/-
 
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
 \newpage
 \pagenumbering{arabic}
 \setcounter{page}{1}
