@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1776540674.26107 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776540675.70524 0
+["pdflatex"] 1776542371.35096 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776542372.68724 0
   "Adamas_University_Logo.png" 1776281745.25537 22959 630a5d64749ebf9547591e7df0f3e866 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776281418.59608 164858 1926c8d7bd1823f0c8393a5c0272d2d9 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775500618.50174 13338724 d5558362a69863122e5268b1cb7cd4d7 ""
@@ -133,12 +133,12 @@
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "d:/DESKTOP/Mini Projrct/output.tex" 1776540673.39983 92401 88998530e65d8b8f8c74a36f5345083e ""
-  "output.aux" 1776540675.46259 9267 b044a4b4b0f29a9de2561f737c536a74 "pdflatex"
-  "output.lof" 1776540675.47817 738 ec1145d346cebd0e7a1a01a55d8933ff "pdflatex"
-  "output.lot" 1776540675.47867 418 03647c23f45d2d7afccd05bd5a20509a "pdflatex"
-  "output.out" 1776540675.47113 12732 f209223f46f3d3673264fb501b3090d0 "pdflatex"
-  "output.toc" 1776540675.47817 4671 93935c977374f252ab87ba8394d5907a "pdflatex"
+  "d:/DESKTOP/Mini Projrct/output.tex" 1776542370.7253 92370 adb3a980649c4c9b3dcaadc317b0f59c ""
+  "output.aux" 1776542372.45565 9267 8648a0358df39b39fc80fdc5eaacc3a6 "pdflatex"
+  "output.lof" 1776542372.47126 738 ec1145d346cebd0e7a1a01a55d8933ff "pdflatex"
+  "output.lot" 1776542372.47126 418 03647c23f45d2d7afccd05bd5a20509a "pdflatex"
+  "output.out" 1776542372.46473 12732 f209223f46f3d3673264fb501b3090d0 "pdflatex"
+  "output.toc" 1776542372.47025 4671 93935c977374f252ab87ba8394d5907a "pdflatex"
   (generated)
   "output.aux"
   "output.lof"

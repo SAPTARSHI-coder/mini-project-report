@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 01:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -850,9 +850,19 @@ l.170 \clearpage
 ]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 24.88pt on input line 210.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--225
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 225.
- [3] [4]
+[3] [4]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 256.
  (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
@@ -872,15 +882,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 \tf@lof=\write5
 \openout5 = `output.lof'.
 
- [8
-
-] (output.lot)
+ (output.lot)
 \tf@lot=\write6
 \openout6 = `output.lot'.
 
- [9
+ [8
 
-] [10
+] [9
 
 ]
 Chapter 1.
@@ -897,14 +905,14 @@ Chapter 3.
 
 ]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 727.
+(Font)              scaled to size 10.95pt on input line 725.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 727.
+(Font)              scaled to size 10.0pt on input line 725.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 728.
+(Font)              scaled to size 10.95pt on input line 726.
  [10] [11]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 859.
+(Font)              scaled to size 12.0pt on input line 857.
  [12] [13] [14] [15] [16] [17] [18] [19] [20]
 Chapter 4.
 [21
@@ -926,17 +934,17 @@ Package rerunfilecheck Info: File `output.out' has not changed.
 (rerunfilecheck)             Checksum: F209223F46F3D3673264FB501B3090D0;12732.
  ) 
 Here is how much of TeX's memory you used:
- 19619 strings out of 467867
- 311680 string characters out of 5413459
+ 19618 strings out of 467867
+ 311674 string characters out of 5413459
  744302 words of memory out of 5000000
  47662 multiletter control sequences out of 15000+600000
  691087 words of font info for 398 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,117p,1221b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on output.pdf (40 pages, 305421 bytes).
+Output written on output.pdf (39 pages, 304739 bytes).
 PDF statistics:
- 483 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
+ 479 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
  89974 words of extra memory for PDF output out of 106986 (max. 10000000)
 
