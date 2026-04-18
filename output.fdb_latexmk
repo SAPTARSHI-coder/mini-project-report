@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1776530453.2409 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776530454.53181 2
+["pdflatex"] 1776530679.09196 "d:/DESKTOP/Mini Projrct/output.tex" "output.pdf" "output" 1776530680.55235 2
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776281418.59608 164858 1926c8d7bd1823f0c8393a5c0272d2d9 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775500618.50174 13338724 d5558362a69863122e5268b1cb7cd4d7 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1736607166 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -132,10 +132,10 @@
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
   "C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "d:/DESKTOP/Mini Projrct/output.tex" 1776530450.50099 93194 1252001ef00c906b6a06c5935c2d467f ""
-  "output.aux" 1776530454.22485 12865 1d854db307b62cb1fee3ee960c817c34 "pdflatex"
-  "output.out" 1776530454.23386 14394 514b5cc97cfe24ffd4d1f97e8d63dd78 "pdflatex"
-  "output.toc" 1776530454.24948 4679 139b57f898095bca238c3f455263df1d "pdflatex"
+  "d:/DESKTOP/Mini Projrct/output.tex" 1776530676.26523 93747 62ba260e25db1391f3638f6a7f3bdd57 ""
+  "output.aux" 1776530680.23255 12865 1d854db307b62cb1fee3ee960c817c34 "pdflatex"
+  "output.out" 1776530680.24159 14394 514b5cc97cfe24ffd4d1f97e8d63dd78 "pdflatex"
+  "output.toc" 1776530680.25916 4679 139b57f898095bca238c3f455263df1d "pdflatex"
   (generated)
   "output.aux"
   "output.log"
