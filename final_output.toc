@@ -1,0 +1,54 @@
+\contentsline {section}{Abstract}{iii}{Doc-Start}%
+\contentsline {section}{Acknowledgements}{v}{Doc-Start}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}General Overview}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Understanding Medication Errors and the LASA Problem}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Disastrous Impact on Global Healthcare Systems}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}The Evolving Role of AI in Healthcare Safety Networks}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Core Research Aim and Objective Formulation}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Distinct Novelty of the Proposed System Architecture}{3}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Organization of the Report Chapters}{4}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Literature Review And Theoretical Background}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}General Epidemiological Overview}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Classification of Medication Errors specifically due to LASA}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Existing String Detection Algorithms and Techniques}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Fatal Limitations of Existing Legacy Systems (Alert Fatigue)}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Emergence of Machine Learning in Predictive Drug Safety}{7}{section.2.5}%
+\contentsline {section}{\numberline {2.6}State of NLP and Speech Processing in Contemporary Healthcare}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Summary of Investigated Literature}{8}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Definitive Research Gap Identification}{9}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Research Methodology And System Design}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}System Requirements and Specifications}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Hardware Requirements}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Software and Library Requirements}{10}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Dataset Description and Preprocessing}{11}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Dataset Construction}{11}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Dataset Statistics Table}{11}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Data Preprocessing and Sanitization}{12}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Algorithm Explanation and Feature Engineering}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Feature Table}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Orthographic Distance Metrics}{14}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Phonetic Encoding Algorithms}{14}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}N-Gram Similarities}{15}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Length Characteristics}{15}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}System Architecture and Pipeline Interactions}{15}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}System Workflow Explanation}{15}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Algorithm Comparison Table}{16}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Pseudocode of the LASA Detection Pipeline}{17}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Biological Patient Context Validation Mapping}{18}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Empirical Results And System Discussion}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Brief Implementation Details}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Algorithmic Model Performance Comparison}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Training Dynamics and Evaluation Metrics}{21}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Realistic Clinical Example Case Studies}{23}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Case Example 1: Dopamine vs. Dobutamine}{24}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Case Example 2: Metformin (Handling Safe Independent Contexts)}{24}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Advantages over Traditional Detection Methods}{25}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Final Findings And Conclusion}{26}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Key Epidemiological and Algorithmic Findings}{26}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Definitive Conclusion of Research Impact}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Real-World Impact and Deployment Challenges}{26}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Scalability}{27}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Current Technical Limitations}{27}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Identified Future Scopes and Expansion Architectures}{27}{section.5.6}%
+\contentsline {chapter}{References}{28}{chapter*.13}%
