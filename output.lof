@@ -1,11 +1,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Figure 3.1: System Architecture and Sequential Real-Time Inference Pipeline Flow}}{10}{figure.caption.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Figure 3.3: Patient Context Validation Logic Engine}}{20}{figure.caption.3}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Distribution of Positive and Negative Samples in the Training Dataset}}{10}{figure.caption.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces System Architecture and Sequential Real-Time Inference Pipeline Flow}}{12}{figure.caption.2}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Accuracy Across Epochs}}{22}{figure.caption.5}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Loss Across Epochs}}{22}{figure.caption.6}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Confusion Matrix for Binary Classification}}{22}{figure.caption.7}%
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Receiver Operating Characteristic (ROC) Curve Comparison}}{16}{figure.caption.4}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Validation Accuracy Across Epochs (Simulated iterative training)}}{16}{figure.caption.5}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Log-Loss Across Epochs}}{17}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion Matrix for Random Forest Binary Classification}}{17}{figure.caption.7}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Feature Importance Output from the Random Forest Model}}{18}{figure.caption.8}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces System Output UI displaying a successfully intercepted LASA Error}}{18}{figure.caption.9}%
 \addvspace {10\p@ }

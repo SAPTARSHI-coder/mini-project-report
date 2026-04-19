@@ -1,4 +1,7 @@
-\documentclass[12pt,a4paper]{report}
+import os
+
+def generate_tex():
+    preamble = r"""\documentclass[12pt,a4paper]{report}
 
 %─────────────────────────── PACKAGES ──────────────────────────────────────
 \usepackage{newtxtext,newtxmath}
@@ -274,7 +277,9 @@ Finally, we extend our utmost appreciation to our academic peers for their robus
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
+"""
 
+    chapter_1_2 = r"""
 \chapter{Introduction}
 
 \section{General Overview}
@@ -347,7 +352,9 @@ An exhaustive, multi-disciplinary review of massively compiled existing literatu
 Evaluating this entire intersection completely reveals there explicitly securely exists a highly prominent engineering integration void within open-resource transparent algorithmic system frameworks aggregating multiple pipelines. Specifically, creating engines simultaneously operating fast real-time audio transformer speech programmatic processing, high-dimensional multi-feature tree-based ensemble classification specifically on deep phonetic and rigorous orthographic bounding geometry, perfectly conjoined simultaneously and seamlessly against massive real-time patient explicit localized biological diagnosis contextual disease evaluation datasets.
 
 Extant software systems unfortunately practically attempt isolating these disparate computational programmatic diagnostic checks sequentially exclusively in total systemic isolation architectures, repeatedly completely logically failing to unify all the separate vector variables simultaneously into one cohesive, incredibly highly rapidly interpretable centralized algorithmic decision engine producing deeply complex, extremely intelligent risk scalar stratifications utilizing explicit logic rather than annoyingly simple, unintelligent, binary true-false unexplainable alert notifications.
+"""
 
+    chapter_3 = r"""
 \chapter{Research Methodology And System Design}
 
 \section{System Requirements and Specifications}
@@ -478,7 +485,9 @@ The following pseudocode outlines the logical flow of the entire system from inp
 
 \section{Biological Patient Context Validation Mapping}
 To eliminate unhelpful alert disruption notifications (alert fatigue), the system utilizes a Patient Context Validation engine. Even if two drugs are orthographically similar, their biological implementation may be vastly different. By mapping the target drug to expected diagnoses using ICD-10 codes, the system overrides false positives if the target drug explicitly matches the patient's current diagnosed morbidity, ensuring alerts are only generated for genuine threats.
+"""
 
+    chapter_4 = r"""
 \chapter{Empirical Results And System Discussion}
 
 \section{Brief Implementation Details}
@@ -566,7 +575,9 @@ The system evaluates the string "Metformin" against "Mitomycin". While orthograp
     \item \textbf{Uniquely Robust Multi-Dimensional Checking:} By synthesizing orthographic, phonetic, and n-gram similarity metrics, the system vastly outperforms simple dictionary-based lookup tools.
     \item \textbf{Actionable Alert Fatigue Suppression:} The integration of biological patient context reduces false positive alerts significantly, ensuring that when an alarm triggers, clinicians inherently trust its validity.
 \end{itemize}
+"""
 
+    chapter_5_and_refs = r"""
 \chapter{Final Findings And Conclusion}
 
 \section{Summary of Key Epidemiological and Algorithmic Findings}
@@ -597,3 +608,14 @@ Future architectural enhancements will focus on integrating large language model
 \end{thebibliography}
 
 \end{document}
+"""
+    
+    final_tex = preamble + chapter_1_2 + chapter_3 + chapter_4 + chapter_5_and_refs
+    
+    with open('output.tex', 'w', encoding='utf-8') as f:
+        f.write(final_tex)
+        
+    print("Successfully generated output.tex")
+
+if __name__ == "__main__":
+    generate_tex()

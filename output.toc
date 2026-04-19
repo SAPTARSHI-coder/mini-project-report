@@ -15,32 +15,34 @@
 \contentsline {section}{\numberline {2.4}Fatal Limitations of Existing Legacy Systems (Alert Fatigue)}{6}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Emergence of Machine Learning in Predictive Drug Safety}{7}{section.2.5}%
 \contentsline {section}{\numberline {2.6}State of NLP and Speech Processing in Contemporary Healthcare}{7}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Summary of Investigated Literature}{7}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Summary of Investigated Literature}{8}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Definitive Research Gap Identification}{8}{section.2.8}%
 \contentsline {chapter}{\numberline {3}Research Methodology And System Design}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}General Framework Philosophy}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Comprehensive System Overview}{9}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Detailed Architecture Design and Pipeline Interactions}{10}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Data Collection Methodologies and PDF Parsing}{11}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Data Preprocessing and Algorithmic Sanitization}{12}{section.3.5}%
-\contentsline {section}{\numberline {3.6}9-Dimensional Feature Engineering (In-Depth Mathematical Models)}{12}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Iterative Model Development and Classifier Selection}{15}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Model Evaluation Standards and Metric Tracking}{16}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Speech-to-Text Architectural Integration (OpenAI Whisper)}{17}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Advanced NLP Dictation Drug Extraction Logic}{17}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Biological Patient Context Validation Mapping}{18}{section.3.11}%
-\contentsline {section}{\numberline {3.12}Fused Multi-Signal Decision Engine Logic Pathing}{20}{section.3.12}%
-\contentsline {chapter}{\numberline {4}Empirical Results And System Discussion}{21}{chapter.4}%
-\contentsline {section}{\numberline {4.1}General Pipeline Performance Results}{21}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Algorithmic Model Performance Comparison Evaluation}{21}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Realistic Clinical Example Case Studies}{23}{section.4.3}%
-\contentsline {section}{\numberline {4.4}JSON System Output Architecture Analysis}{24}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Identifiable Advantages over Traditional Detection Methods}{24}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Outlined Technical and Semantic Limitations of the System}{24}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Extensive Discussion on Clinical Validity}{25}{section.4.7}%
-\contentsline {chapter}{\numberline {5}Final Findings And Conclusion}{26}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary of Key Epidemiological and Algorithmic Findings}{26}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Definitive Conclusion of Research Impact}{26}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Current Technical Limitations}{26}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Identified Future Scopes and Expansion Architectures}{27}{section.5.4}%
-\contentsline {chapter}{\numberline {6}References}{28}{chapter.6}%
+\contentsline {section}{\numberline {3.1}System Requirements and Specifications}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Hardware Requirements}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Software and Library Requirements}{9}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Dataset Description and Preprocessing}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Dataset Construction}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Data Preprocessing and Sanitization}{10}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Algorithm Explanation and Feature Engineering}{11}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Orthographic Distance Metrics}{11}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Phonetic Encoding Algorithms}{11}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}N-Gram Similarities}{11}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Length Characteristics}{12}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}System Architecture and Pipeline Interactions}{12}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Pseudocode of the LASA Detection Pipeline}{12}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Biological Patient Context Validation Mapping}{13}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Empirical Results And System Discussion}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Brief Implementation Details}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Algorithmic Model Performance Comparison}{15}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Training Dynamics and Evaluation Metrics}{16}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Realistic Clinical Example Case Studies}{18}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Case Example 1: Dopamine vs. Dobutamine}{19}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Case Example 2: Metformin (Handling Safe Independent Contexts)}{19}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Advantages over Traditional Detection Methods}{19}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Final Findings And Conclusion}{20}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Key Epidemiological and Algorithmic Findings}{20}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Definitive Conclusion of Research Impact}{20}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Current Technical Limitations}{20}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Identified Future Scopes and Expansion Architectures}{20}{section.5.4}%
+\contentsline {chapter}{References}{22}{chapter*.10}%
