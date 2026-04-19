@@ -1,18 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 10:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 10:45
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./output.tex
-(output.tex
+**"d:/DESKTOP/Mini Projrct/output.tex"
+(d:/DESKTOP/Mini Projrct/output.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\report.c
-ls
+(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.c
-lo
+(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -27,52 +24,29 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxte
-xt.sty
-Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
-pport for TeXGyreTermesX
-
-`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
-nd its extensions (msharpe)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch
-.sty
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
-3.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
-ackend-pdftex.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xp
-arse\xparse.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
-lbox.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count285
-))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
-.sty
+)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-color.cfg
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
-pdftex.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
-color.ltx)
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -82,63 +56,37 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
-.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyv
-al.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xke
-yval.tex
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkv
-utils.tex
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\key
-val.tex))
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count286
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp
-.sty
+)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstri
-ng.sty
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xst
-ring.tex
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count287
 \xs_countb=\count288
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
-ty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scal
-efnt.sty)
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binh
-ex.tex)
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \ntx@tmpcnta=\count289
 \ntx@cnt=\count290
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\font
-axes.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
 Applying: [2024-11-01] Use figureversions if present on input line 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/figureversion
-s\figureversions.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 )
 Already applied: [0000-00-00] Fall back to v1 on input line 76.
@@ -158,37 +106,23 @@ Already applied: [0000-00-00] Fall back to v1 on input line 76.
 \tx@dimBB=\dimen161
 \tx@dimC=\dimen162
 LaTeX Info: Redefining \oldstylenums on input line 902.
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxma
-th.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
-
-`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
-th.sty
+ `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
-xt.sty
+(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
-n.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen163
-))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
-y.sty
+)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen164
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
-n.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count291
@@ -238,15 +172,11 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\cent
-ernot.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count303
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binh
-ex.tex)
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \tx@Isdigit=\count304
 \tx@IsAlNum=\count305
 \tx@tA=\toks24
@@ -320,20 +250,17 @@ Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 6
-64.
+(Font)              `largesymbols' in the math version `normal' on input line 664.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 664
-.
+(Font)              `largesymbols' in the math version `bold' on input line 664.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
 \symlargesymbolsTXA=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
-
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
 \tx@sbptoks=\toks26
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
@@ -352,13 +279,9 @@ LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
 LaTeX Info: Redefining \Bbbk on input line 2847.
 LaTeX Info: Redefining \not on input line 2995.
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
-etry.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
-x.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count306
@@ -373,45 +296,29 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen178
 \Gm@layoutvoffset=\dimen179
 \Gm@dimlist=\toks27
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
-etry.cfg))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/setspace\sets
-pace.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
-hicx.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
-hics.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
-.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-graphics.cfg
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen180
 \Gin@req@width=\dimen181
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/float\float.s
-ty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count309
 \float@exts=\toks28
 \float@box=\box55
 \@float@everytoks=\toks29
 \@floatcapt=\box56
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
-tabs.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen182
 \lightrulewidth=\dimen183
@@ -430,9 +337,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count312
 \@lastruleclass=\count313
 \@thisrulewidth=\dimen194
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
-ty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen195
 \ar@mcellbox=\box57
@@ -441,9 +346,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip54
 \backup@length=\skip55
 \ar@cellbox=\box58
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtab
-le.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip56
 \LTright=\skip57
@@ -461,93 +364,57 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@tables=\count317
 \c@LT@chunks=\count318
 \LT@p@ftn=\toks31
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/multirow\mult
-irow.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip60
 \multirow@cntb=\count319
 \multirow@dima=\skip61
 \bigstrutjot=\dimen198
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hype
-rref.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvs
-etkeys.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekey
-s\kvdefinekeys.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\p
-dfescape.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
-cmds.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
-pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
-nfwarerr.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycol
-or.sty
+)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\name
-ref.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refc
-ount.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestr
-ing\gettitlestring.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvo
-ptions.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count320
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\s
-tringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen199
 \Hy@linkcounter=\count321
 \Hy@pagecounter=\count322
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1e
-nc.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\int
-calc.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count323
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puen
-c.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -560,22 +427,16 @@ Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count324
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen256
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bits
-et.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\
-bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count325
 \Field@Width=\dimen257
@@ -592,30 +453,20 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 \c@Hfootnote=\count328
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdf
-tex.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count329
 \c@bookmark@seq@number=\count330
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilechec
-k\rerunfilecheck.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/uniquecount
-er\uniquecounter.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip62
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fanc
-yhdr.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip63
 \f@nch@offset@elh=\skip64
 \f@nch@offset@erh=\skip65
@@ -631,9 +482,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip75
 \f@nch@widthR=\skip76
 \@temptokenb=\toks32
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titl
-esec.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box64
 \beforetitleunit=\skip77
@@ -644,9 +493,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen261
 \titlewidthlast=\dimen262
 \titlewidthfirst=\dimen263
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\toclo
-ft.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip79
@@ -685,9 +532,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip110
 \cfttabindent=\skip111
 \cfttabnumwidth=\skip112
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enum
-item.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks34
 \labelindent=\skip113
@@ -696,13 +541,9 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box65
 \enit@count@id=\count333
 \enitdp@description=\count334
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\capti
-on.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\capti
-on3.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen265
 \captionmargin=\dimen266
@@ -719,13 +560,9 @@ Package caption Info: Standard document class detected.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcap
-tion.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
-))
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mic
-rotype.sty
+)) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
 \MT@toks=\toks36
 \MT@tempbox=\box66
@@ -739,30 +576,20 @@ LaTeX Info: Redefining \textls on input line 1449.
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count338
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mic
-rotype-pdftex.def
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip114
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mic
-rotype.cfg
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emp
-typage.sty
-Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
-pages
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragg
-ed2e.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip115
 \RaggedLeftLeftskip=\skip116
@@ -778,20 +605,13 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip126
 \RaggedRightParindent=\skip127
 \JustifyingParindent=\skip128
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\al
-gorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
-nment
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
 \@float@every@algorithm=\toks38
 \c@algorithm=\count339
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\
-algpseudocode.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
 Package: algpseudocode 
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\
-algorithmicx.sty
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -809,11 +629,8 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 Document Style - pseudocode environments for use with the `algorithmicx' style
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 39.
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
-e 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxt
-lf.fd
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 74.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -822,11 +639,8 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 \openout1 = `output.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 74.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxm
-i.fd
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 74.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 74.
@@ -841,29 +655,20 @@ LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 74.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa
-.fd
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 74.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 74.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxs
-y.fd
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 74.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 74.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxe
-xx.fd
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 74.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 74.
@@ -871,9 +676,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
-upp-pdf.mkii
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count347
 \scratchdimen=\dimen274
@@ -886,15 +689,10 @@ upp-pdf.mkii
 \MPnumerator=\count351
 \makeMPintoPDFobject=\count352
 \everyMPtoPDFconversion=\toks40
-)
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
-epstopdf-base.sty
+) (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
-opdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count353
@@ -960,9 +758,7 @@ Package microtype Info: Patching command `\showhyphens'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-
-ptm.cfg
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 <Adamas_University_Logo.png, id=194, 250.9375pt x 250.9375pt>
@@ -980,11 +776,8 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 (Font)              scaled to size 14.4pt on input line 110.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 111.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
-e 118.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minn
-tx.fd
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 118.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1015,11 +808,8 @@ LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 (Font)              scaled to size 8.8pt on input line 118.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 (Font)              scaled to size 6.6pt on input line 118.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-118.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia
-.fd
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 118.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
@@ -1028,11 +818,8 @@ LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 (Font)              scaled to size 8.8pt on input line 118.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 (Font)              scaled to size 6.6pt on input line 118.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-118.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym
-.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 118.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
@@ -1041,11 +828,8 @@ LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 (Font)              scaled to size 8.8pt on input line 118.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 (Font)              scaled to size 6.6pt on input line 118.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-118.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc
-.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 118.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
@@ -1062,9 +846,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 6.6pt on input line 118.
  [1
 
-{C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/
-Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-o
-t1-tlf.enc} <./Adamas_University_Logo.png>]
+{C:/Users/SAPTARSHI SADHU/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./Adamas_University_Logo.png>]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 149.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
@@ -1072,8 +854,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 154.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.174 \clearpage
@@ -1123,35 +904,27 @@ Chapter 2.
 
 ] [6] [7] [8]
 Chapter 3.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 358.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxt
-lf.fd
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 358.
+(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 358.
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line
- 370.
-
-(C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxt
-t.fd
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 370.
+ (C:\Users\SAPTARSHI SADHU\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
 (Font)              scaled to size 12.0pt on input line 370.
  [9
 
-{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyr
-e/q-ts1.enc}]
+{C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.0pt on input line 382.
 <figures/dataset_distribution.png, id=357, 578.16pt x 433.62pt>
 File: figures/dataset_distribution.png Graphic file (type png)
 <use figures/dataset_distribution.png>
-Package pdftex.def Info: figures/dataset_distribution.png  used on input line 3
-86.
+Package pdftex.def Info: figures/dataset_distribution.png  used on input line 386.
 (pdftex.def)             Requested size: 317.07614pt x 237.80362pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 387.
@@ -1159,11 +932,9 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 <figures/system_architecture.png, id=371, 867.24pt x 289.08pt>
 File: figures/system_architecture.png Graphic file (type png)
 <use figures/system_architecture.png>
-Package pdftex.def Info: figures/system_architecture.png  used on input line 42
-6.
+Package pdftex.def Info: figures/system_architecture.png  used on input line 426.
 (pdftex.def)             Requested size: 385.02547pt x 128.34244pt.
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 438.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 438.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 443.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -1199,11 +970,9 @@ Package pdftex.def Info: figures/confusion_matrix.png  used on input line 534.
 <figures/feature_importance.png, id=409, 722.7pt x 433.62pt>
 File: figures/feature_importance.png Graphic file (type png)
 <use figures/feature_importance.png>
-Package pdftex.def Info: figures/feature_importance.png  used on input line 542
-.
+Package pdftex.def Info: figures/feature_importance.png  used on input line 542.
 (pdftex.def)             Requested size: 317.07614pt x 190.24422pt.
-
-[17 <./figures/loss_plot.png> <./figures/confusion_matrix.png>]
+ [17 <./figures/loss_plot.png> <./figures/confusion_matrix.png>]
 <figures/sample_output.png, id=417, 578.16pt x 361.35pt>
 File: figures/sample_output.png Graphic file (type png)
 <use figures/sample_output.png>
@@ -1226,24 +995,15 @@ Package rerunfilecheck Info: File `output.out' has not changed.
 (rerunfilecheck)             Checksum: DD001EEFDB1EAF43E73B8BF199DE3869;12207.
  ) 
 Here is how much of TeX's memory you used:
- 20223 strings out of 467867
- 322572 string characters out of 5413459
+ 20225 strings out of 467867
+ 322648 string characters out of 5413459
  753190 words of memory out of 5000000
  48304 multiletter control sequences out of 15000+600000
  687631 words of font info for 364 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,117p,1180b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/ne
-wtx/NewTXMI.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/SAPTARSHI SADHU/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADH
-U/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/S
-APTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb>
-<C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newt
-x/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/newtx/ztmri.pfb>
-Output written on output.pdf (33 pages, 1292571 bytes).
+ 75i,13n,117p,1204b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on output.pdf (33 pages, 1292616 bytes).
 PDF statistics:
  512 PDF objects out of 1000 (max. 8388607)
  104 named destinations out of 1000 (max. 500000)
