@@ -429,7 +429,7 @@ The holistic data lifecycle comprises two interacting distinct primary software 
 \end{figure}
 
 As depicted in Figure \ref{fig:system_arch}, the Inference Pipeline begins with raw audio or text input. Audio is transcribed using the Whisper model. A Natural Language Processing (NLP) module then extracts the specific drug entity. This entity is compared against the database using the 9-dimensional feature extractor. The Random Forest classifier determines the base LASA probability, which is subsequently cross-verified by the Patient Context Validation Engine.
-
+\newpage
 \section{Pseudocode of the LASA Detection Pipeline}
 
 The following pseudocode outlines the logical flow of the entire system from input reception to final alert generation.

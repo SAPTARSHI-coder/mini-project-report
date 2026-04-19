@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -934,6 +934,7 @@ File: figures/system_architecture.png Graphic file (type png)
 <use figures/system_architecture.png>
 Package pdftex.def Info: figures/system_architecture.png  used on input line 426.
 (pdftex.def)             Requested size: 385.02547pt x 128.34244pt.
+ [12 <./figures/system_architecture.png>]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 438.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 443.
@@ -941,7 +942,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.8pt on input line 444.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 444.
- [12 <./figures/system_architecture.png>] [13] [14]
+ [13] [14]
 Chapter 4.
 <figures/model_comparison.png, id=390, 722.7pt x 433.62pt>
 File: figures/model_comparison.png Graphic file (type png)
@@ -1003,7 +1004,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,13n,117p,1204b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on output.pdf (33 pages, 1292616 bytes).
+Output written on output.pdf (33 pages, 1292671 bytes).
 PDF statistics:
  512 PDF objects out of 1000 (max. 8388607)
  104 named destinations out of 1000 (max. 500000)

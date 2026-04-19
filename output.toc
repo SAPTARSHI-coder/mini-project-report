@@ -30,8 +30,8 @@
 \contentsline {subsection}{\numberline {3.3.3}N-Gram Similarities}{12}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Length Characteristics}{12}{subsection.3.3.4}%
 \contentsline {section}{\numberline {3.4}System Architecture and Pipeline Interactions}{12}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Pseudocode of the LASA Detection Pipeline}{12}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Biological Patient Context Validation Mapping}{13}{section.3.6}%
+\contentsline {section}{\numberline {3.5}Pseudocode of the LASA Detection Pipeline}{13}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Biological Patient Context Validation Mapping}{14}{section.3.6}%
 \contentsline {chapter}{\numberline {4}Empirical Results And System Discussion}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Brief Implementation Details}{15}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Algorithmic Model Performance Comparison}{15}{section.4.2}%
