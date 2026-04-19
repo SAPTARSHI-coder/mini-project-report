@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.7)  19 APR 2026 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -925,13 +925,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 404.
  [11]
-<figures/dataset_distribution.png, id=415, 578.16pt x 433.62pt>
+<figures/dataset_distribution.png, id=392, 578.16pt x 433.62pt>
 File: figures/dataset_distribution.png Graphic file (type png)
 <use figures/dataset_distribution.png>
 Package pdftex.def Info: figures/dataset_distribution.png  used on input line 423.
 (pdftex.def)             Requested size: 317.07614pt x 237.80362pt.
  [12 <./figures/dataset_distribution.png>] [13] [14]
-<figures/system_architecture.png, id=434, 867.24pt x 289.08pt>
+<figures/system_architecture.png, id=411, 867.24pt x 289.08pt>
 File: figures/system_architecture.png Graphic file (type png)
 <use figures/system_architecture.png>
 Package pdftex.def Info: figures/system_architecture.png  used on input line 496.
@@ -946,7 +946,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 533.
  [16 <./figures/system_architecture.png>] [17] [18]
 Chapter 4.
-<figures/model_comparison.png, id=458, 722.7pt x 433.62pt>
+<figures/model_comparison.png, id=435, 722.7pt x 433.62pt>
 File: figures/model_comparison.png Graphic file (type png)
 <use figures/model_comparison.png>
 Package pdftex.def Info: figures/model_comparison.png  used on input line 601.
@@ -954,30 +954,30 @@ Package pdftex.def Info: figures/model_comparison.png  used on input line 601.
 [19
 
 ]
-<figures/accuracy_plot.png, id=464, 578.16pt x 433.62pt>
+<figures/accuracy_plot.png, id=441, 578.16pt x 433.62pt>
 File: figures/accuracy_plot.png Graphic file (type png)
 <use figures/accuracy_plot.png>
 Package pdftex.def Info: figures/accuracy_plot.png  used on input line 612.
 (pdftex.def)             Requested size: 317.07614pt x 237.80362pt.
  [20 <./figures/model_comparison.png>]
-<figures/loss_plot.png, id=471, 578.16pt x 433.62pt>
+<figures/loss_plot.png, id=448, 578.16pt x 433.62pt>
 File: figures/loss_plot.png Graphic file (type png)
 <use figures/loss_plot.png>
 Package pdftex.def Info: figures/loss_plot.png  used on input line 621.
 (pdftex.def)             Requested size: 317.07614pt x 237.80362pt.
  [21 <./figures/accuracy_plot.png>]
-<figures/confusion_matrix.png, id=479, 578.16pt x 433.62pt>
+<figures/confusion_matrix.png, id=456, 578.16pt x 433.62pt>
 File: figures/confusion_matrix.png Graphic file (type png)
 <use figures/confusion_matrix.png>
 Package pdftex.def Info: figures/confusion_matrix.png  used on input line 630.
 (pdftex.def)             Requested size: 271.7835pt x 203.8345pt.
  [22 <./figures/loss_plot.png> <./figures/confusion_matrix.png>]
-<figures/feature_importance.png, id=487, 722.7pt x 433.62pt>
+<figures/feature_importance.png, id=464, 722.7pt x 433.62pt>
 File: figures/feature_importance.png Graphic file (type png)
 <use figures/feature_importance.png>
 Package pdftex.def Info: figures/feature_importance.png  used on input line 639.
 (pdftex.def)             Requested size: 317.07614pt x 190.24422pt.
-<figures/sample_output.png, id=489, 578.16pt x 361.35pt>
+<figures/sample_output.png, id=466, 578.16pt x 361.35pt>
 File: figures/sample_output.png Graphic file (type png)
 <use figures/sample_output.png>
 Package pdftex.def Info: figures/sample_output.png  used on input line 651.
@@ -988,8 +988,6 @@ Chapter 5.
 
 ] [27] [28
 
-] [29
-
 ] (final_output.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -999,17 +997,17 @@ Package rerunfilecheck Info: File `final_output.out' has not changed.
 (rerunfilecheck)             Checksum: E4CD738C916BDD282C2B294DD44CCA20;13318.
  ) 
 Here is how much of TeX's memory you used:
- 20250 strings out of 467867
- 323186 string characters out of 5413459
- 754437 words of memory out of 5000000
- 48313 multiletter control sequences out of 15000+600000
- 687618 words of font info for 364 fonts, out of 8000000 for 9000
+ 20220 strings out of 467867
+ 322746 string characters out of 5413459
+ 754115 words of memory out of 5000000
+ 48303 multiletter control sequences out of 15000+600000
+ 686861 words of font info for 357 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,117p,1210b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/SAPTARSHI SADHU/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on final_output.pdf (39 pages, 1317674 bytes).
+Output written on final_output.pdf (38 pages, 1311972 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
- 119 named destinations out of 1000 (max. 500000)
+ 558 PDF objects out of 1000 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
  87518 words of extra memory for PDF output out of 89155 (max. 10000000)
 
